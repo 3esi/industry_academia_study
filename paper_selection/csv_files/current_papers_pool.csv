@@ -1,0 +1,260 @@
+Domain,Paper Name,Authors,Distinguished,URL
+domain_analytics,The untold story of code refactoring customizations in practice,"Daniel Oliveira, Wesley Assunção, Alessandro Garcia, Ana Carla Bibiano, Márcio Ribeiro, Rohit Gheyi, Baldoino Fonseca",False,No URL available
+domain_analytics,Data Quality for Software Vulnerability Datasets,"Roland Croft, Muhammad Ali Babar, M. Mehdi Kholoosi",False,No URL available
+domain_analytics,A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization,"Hao Guan, Ying Xiao, Jiaying LI, Yepang Liu, Guangdong Bai",False,No URL available
+domain_analytics,Comparison and Evaluation of Clone Detection Techniques with Different Code Representations,"Yuekun Wang, Yuhang Ye, Yueming Wu, Weiwei Zhang, Yinxing Xue, Yang Liu",False,No URL available
+domain_analytics,Learning Graph-based Code Representations for Source-level Functional Similarity Detection,"Jiahao Liu, Jun Zeng, Xiang Wang, Zhenkai Liang",False,No URL available
+domain_analytics,"Code Review of Build System Specifications: Prevalence, Purposes, Patterns, and Perceptions","Mahtab Nejati, Mahmoud Alfadel, Shane McIntosh",False,No URL available
+domain_analytics,Learning Deep Semantics for Test Completion,"Pengyu Nie, Rahul Banerjee, Junyi Jessy Li, Raymond Mooney, Milos Gligoric",False,No URL available
+domain_analytics,An Empirical Comparison of Pre-Trained Models of Source Code,"Changan Niu, Chuanyi Li, Vincent Ng, Dongxiao Chen, Jidong Ge, Bin Luo",False,No URL available
+domain_analytics,On the Robustness of Code Generation Techniques: An Empirical Study on GitHub Copilot,"Antonio Mastropaolo, Luca Pascarella, Emanuela Guglielmi, Matteo Ciniselli, Simone Scalabrino, Rocco Oliveto, Gabriele Bavota",False,No URL available
+domain_analytics,KnowLog: Knowledge Enhanced Pre-trained Language Model for Log Understanding,"Lipeng Ma, Weidong Yang, Bo Xu, Sihang Jiang, Ben Fei, Jiaqing Liang, Mingjie Zhou, Yanghua Xiao",False,No URL available
+domain_analytics,Unveiling Memorization in Code Models,"Zhou Yang, Zhipeng Zhao, Chenyu Wang, Jieke Shi, Dongsun Kim, DongGyun Han, David Lo",False,No URL available
+domain_analytics,Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study,"Qi Guo, Junming Cao, Xiaofei Xie, Shangqing Liu, Xiaohong Li, Bihuan Chen, Xin Peng",False,No URL available
+domain_analytics,Deep Learning or Classical Machine Learning? An Empirical Study on Log-Based Anomaly Detection,"BoXi Yu, Jiayi Yao, Qiuai Fu, Zhiqing Zhong, Haotian Xie, Yaoliang Wu, Yuchi Ma, Pinjia He",False,No URL available
+domain_analytics,TRACED: Execution-aware Pre-training for Source Code,"Yangruibo Ding, Benjamin Steenhoek, Kexin Pei, Gail Kaiser, Wei Le, Baishakhi Ray",False,No URL available
+domain_analytics,On Extracting Specialized Code Abilities from Large Language Models: A Feasibility Study,"Li Zongjie, Chaozheng Wang, Pingchuan Ma, Chaowei Liu, Shuai Wang, Daoyuan Wu, Cuiyun Gao, Yang Liu",False,No URL available
+domain_analytics,CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models,"Hao Yu, Bo Shen, Dezhi Ran, Jiaxin Zhang, Qi Zhang, Yuchi Ma, Guangtai Liang, Ying Li, Qianxiang Wang, Tao Xie",False,No URL available
+domain_analytics,Inferring Data Preconditions from Deep Learning Models for Trustworthy Prediction in Deployment,"Shibbir Ahmed, Hongyang Gao, Hridesh Rajan",False,No URL available
+domain_analytics,GrammarT5: Grammar-Integrated Pretrained Encoder-Decoder Neural Model for Code,"Qihao Zhu, Qingyuan Liang, Zeyu Sun, Yingfei Xiong, Lu Zhang, Shengyu Cheng",False,No URL available
+domain_analytics,On Calibration of Pre-trained Code models,"Zhenhao Zhou, Chaofeng Sha, Xin Peng",False,No URL available
+domain_analytics,Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models,"Shuzheng Gao, Wenxin Mao, Cuiyun Gao, Li Li, Xing Hu, Xin Xia, Michael Lyu",False,No URL available
+domain_analytics,Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code,"Rangeet Pan, Ali Reza Ibrahimzada, Rahul Krishna, Divya Sankar, Lambert Pouguem Wassi, Michele Merler, Boris Sobolev, Raju Pavuluri, Saurabh Sinha, Reyhaneh Jabbarvand",False,No URL available
+domain_analytics,Evaluating Large Language Models in Class-Level Code Generation,"Xueying Du, Mingwei Liu, Kaixin Wang, Hanlin Wang, Junwei Liu, Yixuan Chen, Jiayi Feng, Chaofeng Sha, Xin Peng, Yiling Lou",False,No URL available
+domain_analytics,Empirical Study of the Docker Smells Impact on the Image Size,Thomas Durieux,False,No URL available
+domain_analytics,MotorEase: Automated Detection of Motor Impairment Accessibility Issues in Mobile App UIs,"Arun Krishna Vajjala, S M Hasan Mansur, Justin Jose, Kevin Moran",False,No URL available
+domain_analytics,LogShrink: Effective Log Compression by Leveraging Commonality and Variability of Log Data,"Xiaoyun Li, Hongyu Zhang, Van-Hoang Le, Pengfei Chen",False,No URL available
+domain_analytics,Demystifying Compiler Unstable Feature Usage and Impacts in the Rust Ecosystem,"Chenghao Li, Yifei Wu, Wenbo Shen, Zichen Zhao, Rui Chang, Chengwei Liu, Yang Liu, Kui Ren",False,No URL available
+domain_analytics,Resource Usage and Optimization Opportunities in Workflows of GitHub Actions,"Islem BOUZENIA, Michael Pradel",False,No URL available
+domain_analytics,Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts,"Mingyuan Huang, Jiachi Chen, Zigui Jiang, Zibin Zheng",False,No URL available
+domain_analytics,Data-Driven Evidence-Based Syntactic Sugar Design,"David OBrien, Robert Dyer, Tien N. Nguyen, Hridesh Rajan",False,No URL available
+domain_analytics,Revisiting Android App Categorization,"Marco Alecci, Jordan Samhi, Tegawendé F. Bissyandé, Jacques Klein",False,No URL available
+domain_analytics,Are Your Requests Your True Needs? Checking Excessive Data Collection in VPA App,"Fuman Xie, Chuan Yan, Mark Huasong Meng, Shaoming Teng, Yanjun Zhang, Guangdong Bai",False,No URL available
+domain_analytics,Shedding Light on Software Engineering-specific Metaphors and Idioms,"Mia Mohammad Imran, Preetha Chatterjee, Kostadin Damevski",False,No URL available
+domain_analytics,MiniMon: Minimizing Android Applications with Intelligent Monitoring-Based Debloating,"Jiakun Liu, Zicheng Zhang, Xing Hu, Ferdian Thung, Shahar Maoz, Debin Gao, Eran Toch, Zhipeng Zhao, David Lo",False,No URL available
+domain_analytics,An Exploratory Investigation of Log Anomalies in Unmanned Aerial Vehicles,"Dinghua Wang, Shuqing Li, Guanping Xiao, Yepang Liu, Yulei Sui, Pinjia He, Michael Lyu",False,No URL available
+domain_analytics,ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem,"Ruofan Zhu, Xingyu Wang, Chengwei Liu, Zhengzi Xu, Wenbo Shen, Rui Chang, Yang Liu",False,No URL available
+domain_analytics,Fine-SE: Integrating Semantic Features and Expert Features for Software Effort Estimation,"Yue Li, Zhong Ren, Zhiqi Wang, Lanxin Yang, Liming Dong, He Zhang",False,No URL available
+domain_analytics,DeepLSH: Deep Locality-Sensitive Hash Learning for Fast and Efficient Near-Duplicate Crash Report Detection,"Youcef REMIL, Anes Bendimerad, Romain Mathonat, Chedy raissi, Mehdi Kaytoue",False,No URL available
+domain_analytics,DivLog: Log Parsing with Prompt Enhanced In-Context Learning,"Junjielong Xu, Ruichun Yang, Yintong Huo, Chengyu Zhang, Pinjia He",False,No URL available
+domain_analytics,Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports,"Jiamou Sun, Jieshan Chen, Zhenchang Xing, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu",False,No URL available
+domain_analytics,[Remote] Self-Supervised Query Reformulation for Code Search,"Yuetian Mao, Chengcheng Wan, Yuze Jiang, Xiaodong Gu",False,No URL available
+domain_analytics,[Remote] Natural Language to Code: How Far are We?,"Shangwen Wang, Mingyang Geng, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, Li Li, Tegawendé F. Bissyandé, Xiaoguang Mao",False,No URL available
+domain_analytics,Efficient Text-to-Code Retrieval with Cascaded Fast and Slow Transformer Models,"Akhilesh Deepak Gotmare, Junnan Li, Shafiq Joty, Steven C.H. Hoi",False,No URL available
+domain_analytics,PEM: Representing Binary Program Semantics for Similarity Analysis via A Probabilistic Execution Model,"Xiangzhe Xu, Zhou Xuan, Shiwei Feng, Siyuan Cheng, Yapeng Ye, Qingkai Shi, Guanhong Tao, Le Yu, Zhuo Zhang, Xiangyu Zhang",False,No URL available
+domain_analytics,[Remote] Demystifying Dependency Bugs in Deep Learning Stack,"Kaifeng Huang, Bihuan Chen, Susheng Wu, Junming Cao, Lei Ma, Xin Peng",False,No URL available
+domain_analytics,Semantic Debugging,"Martin Eberlein, Marius Smytzek, Dominic Steinhöfel, Lars Grunske, Andreas Zeller",False,No URL available
+domain_analytics,[Remote] Hue: A User-Adaptive Parser for Hybrid Logs,"Junjielong Xu, Qiuai Fu, Zhouruixing Zhu, Yutong Cheng, zhijing li, Yuchi Ma, Pinjia He",False,No URL available
+domain_analytics,[Remote] Log Parsing with Generalization Ability under New Log Types,"Siyu Yu, Yifan Wu, Zhijing Li, Pinjia He, Ningjiang Chen, Changjian Liu",False,No URL available
+domain_analytics,Go Static: Contextualized Logging Statement Generation,"Yichen LI, Yintong Huo, Renyi Zhong, Zhihan Jiang, Jinyang Liu, Junjie Huang, Jiazhen Gu, Pinjia He, Michael Lyu",False,No URL available
+domain_analytics,DeSQL: Interactive Debugging of SQL in Data-Intensive Scalable Computing,"Sabaat Haroon, Chris Brown, Muhammad Ali Gulzar",False,No URL available
+domain_analytics,DTD: Comprehensive and Scalable Testing for Debuggers,"Hongyi Lu, Zhibo Liu, Shuai Wang, Fengwei Zhang",False,No URL available
+domain_analytics,A Critical Review of Common Log Data Sets Used for Evaluation of Sequence-based Anomaly Detection Techniques,"Max Landauer, Florian Skopik, Markus Wurzenberger",False,No URL available
+domain_analytics,LILAC: Log Parsing using LLMs with Adaptive Parsing Cache,"Zhihan Jiang, Jinyang Liu, Zhuangbin Chen, Yichen LI, Junjie Huang, Yintong Huo, Pinjia He, Jiazhen Gu, Michael Lyu",False,No URL available
+domain_analytics,Scalable Program Clone Search Through Spectral Analysis,"Tristan Benoit, Jean-Yves Marion, Sébastien Bardin",False,No URL available
+domain_analytics,[Remote] Tritor: Detecting Semantic Code Clones by Building Social Network-based Triads Model,"Deqing Zou, Siyue Feng, Yueming Wu, Wenqi Suo, Hai Jin",False,No URL available
+domain_analytics,[Remote] Demystifying the Composition and Code Reuse in Solidity Smart Contracts,"Kairan Sun, Zhengzi Xu, Chengwei Liu, Kaixuan Li, Yang Liu",False,No URL available
+domain_analytics,[Remote] Gitor: Scalable Code Clone Detection by Building Global Sample Graph,"Junjie shan, Shihan Dou, Yueming Wu, Hairu wu, Yang Liu",False,No URL available
+domain_analytics,[Remote] CCT5: A Code-Change-Oriented Pre-Trained Model,"Bo Lin, Shangwen Wang, Zhongxin Liu, Yepang Liu, Xin Xia, Xiaoguang Mao",False,No URL available
+domain_analytics,CodePlan: Repository-level Coding using LLMs and Planning,"Ramakrishna Bairi, Atharv Sonwane, Aditya Kanade, Vageesh D C, Arun Iyer, Suresh Parthasarathy, Sriram Rajamani, B. Ashok, Shashank Shet",False,No URL available
+domain_analytics,DeciX: Explain Deep Learning Based Code Generation Applications,"Simin Chen, Zexin Li, Wei Yang, Cong Liu",False,No URL available
+domain_analytics,IRCoCo: Immediate Rewards-Guided Deep Reinforcement Learning for Code Completion,"Bolun Li, Zhihong Sun, Tao Huang, Hongyu Zhang, Yao Wan, Chen Lyu, Ge Li, Zhi Jin",False,No URL available
+domain_analytics,Identifying Solidity Smart Contract API Documentation Errors,"Chenguang Zhu, Ye Liu, Xiuheng Wu, Yi Li",False,No URL available
+domain_analytics,Answer Summarization for Technical Queries: Benchmark and New Approach,"Chengran Yang, Bowen Xu, Ferdian Thung, Yucen Shi, Ting Zhang, Zhou Yang, Xin Zhou, Jieke Shi, Junda He, DongGyun Han, David Lo",False,No URL available
+domain_analytics,Which Exception Shall We Throw?,Hao Zhong,False,No URL available
+domain_analytics,Reformulator: Automated Refactoring of the N+1 Problem in Database-Backed Applications,"Alexi Turcotte, Mark W. Aldrich, Frank Tip",False,No URL available
+domain_analytics,Learning to Synthesize Relational Invariants,"Jingbo Wang, Chao Wang",False,No URL available
+domain_analytics,An Empirical Study of Parameter-Efficient Fine-Tuning Methods for Pre-trained Code Models,"Jiaxing Liu, Chaofeng Sha, Xin Peng",False,No URL available
+domain_analytics,Fast and Reliable Program Synthesis via User Interaction,"Yanju Chen, Chenglong Wang, Xinyu Wang, Osbert Bastani, Yu Feng",False,No URL available
+domain_analytics,From Misuse to Mastery: Enhancing Code Generation with Knowledge-Driven AI Chaining,"Xiaoxue Ren, Xinyuan Ye, Dehai Zhao, Zhenchang Xing, Xiaohu Yang",False,No URL available
+domain_analytics,Compiler Auto-tuning via Critical Flag Selection,"Mingxuan Zhu, Dan Hao",False,No URL available
+domain_analytics,CAT-LM: Training Language Models on Aligned Code And Tests,"Nikitha Rao, Kush Jain, Uri Alon, Claire Le Goues, Vincent J. Hellendoorn",False,No URL available
+domain_analytics,Improving code extraction from coding screencasts using a code-aware encoder-decoder model,"Abdulkarim Malkadi, Ahmad Tayeb, Sonia Haiduc",False,No URL available
+domain_analytics,InfeRE: Step-by-Step Regex Generation via Chain of Inference,"Shuai Zhang, Xiaodong Gu, Beijun Shen, Yuting Chen",False,No URL available
+domain_analytics,MELT: Mining Effective Lightweight Transformations from Pull Requests,"Daniel Ramos, Hailie Mitchell, Ines Lynce, Vasco Manquinho, Ruben Martins, Claire Le Goues",False,No URL available
+domain_analytics,On the Evaluation of Neural Code Translation: Taxonomy and Benchmark,"Mingsheng Jiao, Tingrui Yu, Xuan Li, Guan Jie Qiu, Xiaodong Gu, Beijun Shen",False,No URL available
+domain_analytics,Pluggable Type Inference for Free,"Martin Kellogg, Daniel Daskiewicz, Loi Ngo Duc Nguyen, Muyeed Ahmed, Michael D. Ernst",False,No URL available
+domain_analytics,Contextuality of Code Representation Learning,"Yi Li, Shaohua Wang, Tien N. Nguyen",False,No URL available
+domain_analytics,On-the-fly Improving Performance of Deep Code Models via Input Denoising,"Zhao Tian, Junjie Chen, Xiangyu Zhang",False,No URL available
+domain_analytics,Towards Automatically Addressing Self-Admitted Technical Debt: How Far Are We?,"Antonio Mastropaolo, Massimiliano Di Penta, Gabriele Bavota",False,No URL available
+domain_analytics,Delving into Commit-Issue Correlation to Enhance Commit Message Generation Models,"Liran Wang, Xunzhu Tang, Yichen He, Changyu Ren, Shuhua Shi, Chaoran Yan, Zhoujun Li",False,No URL available
+domain_analytics,Automatic Generation and Reuse of Precise Library Summaries for Object-Sensitive Pointer Analysis,"Jingbo Lu, Dongjie He, Wei Li, Yaoqing Gao, Jingling Xue",False,No URL available
+domain_analytics,What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?,"Shuzheng Gao, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang, Hongyu Zhang, Michael Lyu",False,No URL available
+domain_analytics,HexT5: Unified Pre-training for Stripped Binary Code Information Inference,"Jiaqi Xiong, Guoqiang Chen, Kejiang Chen, Han Gao, Shaoyin Cheng, Weiming Zhang",False,No URL available
+domain_analytics,Generating Variable Explanations via Zero-shot Prompt Learning,"Chong Wang, Yiling Lou, Liu Junwei, Xin Peng",False,No URL available
+domain_analytics,Code Difference Guided Adversarial Example Generation for Deep Code Models,"Zhao Tian, Junjie Chen, Zhi Jin",False,No URL available
+domain_analytics,ZC3 Zero-Shot Cross-Language Code Clone Detection,"Jia Li, Chongyang Tao, Zhi Jin, Fang Liu, Jia Li, Ge Li",False,No URL available
+domain_analytics,Optimizing Continuous Development By Detecting and Preventing Unnecessary Content Generation,"Talank Baral, Shanto Rahman, Bala Naren Chanumolu, Basak Balci, Tuna Tuncer, August Shi, Wing Lam",False,No URL available
+domain_analytics,Analyzing the Impact of Workloads on Modeling the Performance of Configurable Software Systems,"Stefan Mühlbauer, Florian Sattler, Christian Kaltenecker, Johannes Dorn, Sven Apel, Norbert Siegmund",False,No URL available
+domain_analytics,Twins or False Friends? A Study on Energy Consumption and Performance of Configurable Software,"Max Weber, Christian Kaltenecker, Florian Sattler, Sven Apel, Norbert Siegmund",False,No URL available
+domain_analytics,IoPV: On Inconsistent Option Performance Variations,"Jinfu Chen, Zishuo Ding, Yiming Tang, Mohammed Sayagh, Heng Li, Bram Adams, Weiyi Shang",False,No URL available
+domain_analytics,Predicting Software Performance with Divide-and-Learn,"Jingzhi Gong, Tao Chen",False,No URL available
+domain_analytics,[Remote] Discovering Parallelisms in Python Programs,"Siwei Wei, Guyang Song, Senlin Zhu, Ruoyi Ruan, Shihao Zhu, Yan Cai",False,No URL available
+domain_analytics,DyPyBench: A Benchmark of Executable Python Software,"Islem BOUZENIA, Bajaj Piyush Krishan, Michael Pradel",False,No URL available
+domain_analytics,PBE-based Selective Abstraction and Refinement for Efficient Property Falsification of Embedded Software,"Yoel Kim, Yunja Choi",False,No URL available
+domain_analytics,Adapting Multi-objectivized Software Configuration Tuning,"Tao Chen, Miqing Li",False,No URL available
+domain_analytics,Analyzing Quantum Programs with LintQ: A Static Analysis Framework for Qiskit,"Matteo Paltenghi, Michael Pradel",False,No URL available
+domain_analytics,Abstraction-Aware Inference of Metamorphic Relations,"Agustin Nolasco, Facundo Molina, Renzo Degiovanni, Alessandra Gorla, Diego Garbervetsky, Mike Papadakis, Sebastian Uchitel, Nazareno Aguirre, Marcelo F. Frias",False,No URL available
+domain_analytics,Predicting Configuration Performance in Multiple Environments with Sequential Meta-Learning,"Jingzhi Gong, Tao Chen",False,No URL available
+domain_analytics,Bin2Summary: Beyond Function Name Prediction in Stripped Binaries with Functionality-specific Code Embeddings,"Zirui Song, Jiongyi Chen, Kehuan Zhang",False,No URL available
+domain_analytics,Active Monitoring Mechanism for Control-based Self-Adaptive Systems,"Yi Qin, Yanxiang Tong, Yifei Xu, Chun Cao, Xiaoxing Ma",False,No URL available
+domain_analytics,Cut to the Chase: An Error-Oriented Approach to Detect Error-Handling Bugs,"Haoran Liu, Zhouyang Jia, Shanshan Li, Yan Lei, Yue Yu, Yu Jiang, Xiaoguang Mao, Liao Xiangke",False,No URL available
+domain_analytics,DAInfer: Inferring API Aliasing Specifications from Library Documentation via Neurosymbolic Optimization,"Chengpeng Wang, Jipeng Zhang, Rongxin Wu, Charles Zhang",False,No URL available
+domain_evolution,APICAD: Augmenting API Misuse Detection Through Specifications From Code And Documents,"Xiaoke Wang, Lei Zhao",False,No URL available
+domain_evolution,Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis,"Sen Yang, Sen Chen, Lingling Fan, Sihan Xu, Zhanwei Hui, Song Huang",False,No URL available
+domain_evolution,Data Quality Matters: A Case Study of ObsoleteComment Detection,"Shengbin Xu, Yuan Yao, Feng Xu, Tianxiao Gu, Jingwei Xu, Xiaoxing Ma",False,No URL available
+domain_evolution,Revisiting Learning-based Commit Message Generation,"Jinhao Dong, Yiling Lou, Dan Hao, Lin Tan",False,No URL available
+domain_evolution,Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality,"Jiawei Li, Iftekhar Ahmed",False,No URL available
+domain_evolution,PILAR: Studying and Mitigating the Influence of Configurations on Log Parsing,"Hetong Dai, Yiming Tang, Heng Li, Weiyi Shang",False,No URL available
+domain_evolution,Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction,"Zhenhao Li, Chuan Luo, Tse-Hsun (Peter) Chen, Weiyi Shang, Shilin He, Qingwei Lin, Dongmei Zhang",False,No URL available
+domain_evolution,On the Temporal Relations between Logging and Code,"Zishuo Ding, Yiming Tang, Yang Li, Heng Li, Weiyi Shang",False,No URL available
+domain_evolution,When to Say What: Learning to Find Condition-Message Inconsistencies,"Islem BOUZENIA, Michael Pradel",False,No URL available
+domain_evolution,A Semantic-aware Parsing Approach for Log Analytics,"Yintong Huo, Yuxin Su, Cheryl Lee, Michael Lyu",False,No URL available
+domain_evolution,Dependency Facade: The Coupling and Conflicts between Android Framework and Its Customization,"Wuxia Jin, Yitong Dai, Jianguo Zheng, Yu Qu, Ming Fan, Zhenyu Huang, Dezhi Huang, Ting Liu",False,No URL available
+domain_evolution,Understanding Solidity Event Logging Practices in the Wild,"Lantian Li, Yejian Liang, Zhihao Liu, Zhongxing Yu",False,No URL available
+domain_evolution,EvaCRC: Evaluating Code Review Comments,"Lanxin Yang, Jinwei Xu, YiFan Zhang, He Zhang, Alberto Bacchelli",False,No URL available
+domain_evolution,HyperDiff: Computing Source Code Diffs at Scale,"Quentin Le-dilavrec, Djamel Eddine Khelladi, Arnaud Blouin, Jean-Marc Jézéquel",False,No URL available
+domain_evolution,Multilingual Code Co-Evolution Using Large Language Models,"Jiyang Zhang, Pengyu Nie, Junyi Jessy Li, Milos Gligoric",False,No URL available
+domain_evolution,Knowledge-based Version Incompatibility Detection for Deep Learning,"Zhongkai Zhao, Bonan Kou, Mohamed Yilmaz Ibrahim, Muhao Chen, Tianyi Zhang",False,No URL available
+domain_evolution,Identifying Key Classes for Initial Software Comprehension: Can We Do It Better?,"Weifeng Pan, Xin Du, Hua Ming, Dae-Kyoo Kim, Zijiang Yang",False,No URL available
+domain_evolution,Improving API Knowledge Discovery with ML: A Case Study of Comparable API Methods,"Daye Nam, Brad A. Myers, Bogdan Vasilescu, Vincent J. Hellendoorn",False,No URL available
+domain_evolution,Evidence Profiles for Validity Threats in Program Comprehension Experiments,"Marvin Muñoz Barón, Marvin Wyrich, Daniel Graziotin, Stefan Wagner",False,No URL available
+domain_evolution,Developers’ Visuo-spatial Mental Model and Program Comprehension,"Abir Bouraffa, Gian-Luca Fuhrmann, Walid Maalej",False,No URL available
+domain_evolution,Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension,"Shuzheng Gao, Cuiyun Gao, Chaozheng Wang, Jun Sun, David Lo, Yue Yu",False,No URL available
+domain_evolution,AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces,"S M Hasan Mansur, Sabiha Salma, Damilola Awofisayo, Kevin Moran",False,No URL available
+domain_evolution,Carving UI Tests to Generate API Tests and API Specification,"Rahulkrishna Yandrapally, Saurabh Sinha, Rachel Tzoref-Brill, Ali Mesbah",False,No URL available
+domain_evolution,CoCoSoDa: Effective Contrastive Learning for Code Search,"Ensheng Shi, Wenchao Gu, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun",False,No URL available
+domain_evolution,Rules of Engagement: Why and How Companies Participate in OSS,"Mariam Guizani, Aileen Abril Castro-Guzman, Anita Sarma, Igor Steinmacher",False,No URL available
+domain_evolution,An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead,"Boming Xia, Tingting Bi, Zhenchang Xing, Qinghua Lu, Liming Zhu",False,No URL available
+domain_evolution,Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot,"David OBrien, Sumon Biswas, Sayem Mohammad Imtiaz, Rabe Abdalkareem, Emad Shihab, Hridesh Rajan",False,No URL available
+domain_evolution,Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization),"Toufique Ahmed, Kunal Suresh Pai, Prem Devanbu, Earl T. Barr",False,No URL available
+domain_evolution,DSFM: Enhancing Functional Code Clone Detection with Deep Subtree Interactions,"Zhiwei Xu, Shaohua Qiang, Dinghong Song, Min Zhou, Hai Wan, Xibin Zhao, Ping Luo, Hongyu Zhang",False,No URL available
+domain_evolution,Machine Learning is All You Need: A Simple Token-based Approach for Effective Code Clone Detection,"Siyue Feng, Wenqi Suo, Yueming Wu, Deqing Zou, Yang Liu, Hai Jin",False,No URL available
+domain_evolution,Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning,"Mingyang Geng, Shangwen Wang, Dezun Dong, Haotian Wang, Ge Li, Zhi Jin, Xiaoguang Mao, Liao Xiangke",False,No URL available
+domain_evolution,Block-based Programming for Two-Armed Robots: A Comparative Study,"Felipe Fronchetti, Nico Ritschel, Logan Schorr, Chandler Barfield, Gabriella Chang, Rodrigo Spinola, Reid Holmes, David C. Shepherd",False,No URL available
+domain_evolution,Exploiting Library Vulnerability via Migration Based Automating Test Generation,"Zirui Chen, Xing Hu, Xin Xia, Yi Gao, Tongtong Xu, David Lo, Xiaohu Yang",False,No URL available
+domain_evolution,DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps,"Pengcheng Ren, Chaoshun Zuo, Xiaofeng Liu, Wenrui Diao, Qingchuan Zhao, Shanqing Guo",False,No URL available
+domain_evolution,How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community,"Yang Zhang, Yiwen Wu, Tingting Chen, Tao Wang, Hui Liu, Huaimin Wang",False,No URL available
+domain_evolution,BOMs Away! Inside the Minds of Stakeholders: A Comprehensive Study of Bills of Materials for Software Systems,"Trevor Stalnaker, Nathan Wintersgill, Oscar Chaparro, Massimiliano Di Penta, Daniel M. German, Denys Poshyvanyk",False,No URL available
+domain_evolution,Compiler-directed Migrating API Callsite of Client Code,"Hao Zhong, Na Meng",False,No URL available
+domain_evolution,MUT: Human-in-the-Loop Unit Test Migration,"Yi Gao, Xing Hu, Tongtong Xu, Xin Xia, David Lo, Xiaohu Yang",False,No URL available
+domain_evolution,Streamlining Java Programming: Uncovering Well-Formed Idioms with IdioMine,"Yanming Yang, Xing Hu, Xin Xia, David Lo, Xiaohu Yang",False,No URL available
+domain_evolution,"Fine-grained, accurate and scalable source differencing","Jean-Rémy Falleri, Matias Martinez",False,No URL available
+domain_evolution,The Classics Never Go Out of Style: An Empirical Study of Downgrades from the Bazel Build Technology,"Mahmoud Alfadel, Shane McIntosh",False,No URL available
+domain_evolution,Context-Aware Name Recommendation for Field Renaming,"Chunhao Dong, Yanjie Jiang, Nan Niu, Yuxia Zhang, Hui Liu",False,No URL available
+domain_evolution,Cneps: A Precise Approach for Examining Dependencies among Third-Party C/C++ Open-Source Components,"Yoonjong Na, Seunghoon Woo, Joomyeong Lee, Heejo Lee",False,No URL available
+domain_evolution,A Study on the Pythonic Functional Constructs' Understandability,"Cyrine Zid, Fiorella Zampetti, Giulio Antoniol, Massimiliano Di Penta",False,No URL available
+domain_evolution,Cross-Inlining Binary Function Similarity Detection,"Ang Jia, Ming Fan, Xi Xu, Wuxia Jin, Haijun Wang, Ting Liu",False,No URL available
+domain_evolution,BinaryAI: Binary Software Composition Analysis via Intelligent Binary Source Code Matching,"Ling Jiang, Junwen An, Huihui Huang, Qiyi Tang, Sen Nie, Shi Wu, Yuqun Zhang",False,No URL available
+domain_evolution,PPT4J: Patch Presence Test for Java Binaries,"Zhiyuan Pan, Xing Hu, Xin Xia, Xian Zhan, David Lo, Xiaohu Yang",False,No URL available
+domain_evolution,Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-Task Learning,"Xiaoling Zhang, Zhengzi Xu, shouguo yang, Zhi Li, Zhiqiang Shi, Limin Sun",False,No URL available
+domain_evolution,Unprecedented Code Change Automation: The Fusion of LLMs and Transformation by Example,"Malinda Dilhara, Abhiram Bellur, Timofey Bryksin, Danny Dig",False,No URL available
+domain_evolution,Bloat beneath Python's Scales: A Fine-Grained Inter-Project Dependency Analysis,"Georgios-Petros Drosos, Thodoris Sotiropoulos, Diomidis Spinellis, Dimitris Mitropoulos",False,No URL available
+domain_evolution,Characterizing Python Library Migrations,"Mohayeminul Islam, Ajay Jha, Ildar Akhmetov, Sarah Nadi",False,No URL available
+domain_evolution,PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages,"Kai Gao, Weiwei Xu, Wenhao Yang, Minghui Zhou",False,No URL available
+domain_evolution,Refactoring to Pythonic Idioms: A Hybrid Knowledge-Driven Approach Leveraging Large Language Models,"zejun zhang, Zhenchang Xing, Xiaoxue Ren, Qinghua Lu, Xiwei (Sherry) Xu",False,No URL available
+domain_evolution,Revealing Software Development Work Patterns with PR-Issue Graph Topologies,"Cleidson de Souza, Emilie Ma, Jesse Wong, Dongwook Yoon, Ivan Beschastnikh",False,No URL available
+domain_evolution,"Generative AI for Pull Request Descriptions: Adoption, Impact, and Developer Interventions","Tao Xiao, Hideaki Hata, Christoph Treude, Kenichi Matsumoto",False,No URL available
+domain_evolution,SimLLM: Measuring Semantic Similarity in Code Summaries Using a Large Language Model-Based Approach,"Xin Jin, Zhiqiang Lin",False,No URL available
+domain_evolution,"Sharing Software-Evolution Datasets: Practices, Challenges, and Recommendations","David Broneske, Sebastian Kittan, Jacob Krüger",False,No URL available
+domain_evolution,EyeTrans: Merging Human and Machine Attention for Neural Code Summarization,"Yifan Zhang, Jiliang Li, Zachary Karas, Aakash Bansal, Toby Jia-Jun Li, Collin McMillan, Kevin Leach, Yu Huang",False,No URL available
+domain_evolution,Predicting Code Comprehension: A Novel Approach to Align Human Gaze with Code Using Deep Neural Networks,"Tarek Alakmeh, David Reich, Lena Jäger, Thomas Fritz",False,No URL available
+domain_evolution,R2I: A Relative Readability Metric for Decompiled Code,"Haeun Eom, Dohee Kim, Sori Lim, Hyungjoon Koo, Sungjae Hwang",False,No URL available
+domain_evolution,Detecting Build Conflicts in Software Merge for Java Programs via Static Analysis,"Sheikh Shadab Towqir, Bowen Shen, Muhammad Ali Gulzar, Na Meng",False,No URL available
+domain_evolution,SmartPip: A Smart Approach to Resolving Python Dependency Conflict Issues,"Chao Wang, Rongxin Wu, Haohao Song, Jiwu Shu, Guoqing Li",False,No URL available
+domain_evolution,Accelerating Build Dependency Error Detection via Virtual Build,"Rongxin Wu, Minglei Chen, Chengpeng Wang, Gang Fan, Jiguang Qiu, Charles Zhang",False,No URL available
+domain_evolution,BuildSonic: Detecting and Repairing Performance-Related Configuration Smells for Continuous Integration Builds,"Chen Zhang, Bihuan Chen, Junhao Hu, Xin Peng, Wenyun Zhao",False,No URL available
+domain_evolution,Towards Understanding Third-party Library Dependency in C/C++ Ecosystem,"Wei Tang, Zhengzi Xu, Chengwei Liu, Wu Jiahui, shouguo yang, Yi Li, Ping Luo, Yang Liu",False,No URL available
+domain_evolution,Not All Dependencies are Equal: An Empirical Study on Production Dependencies in NPM,"Jasmine Latendresse, Suhaib Mujahid, Diego Costa, Emad Shihab",False,No URL available
+domain_evolution,Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects,"Yiwen Wu, Yang Zhang, Kele Xu, Tao Wang, Huaimin Wang",False,No URL available
+domain_evolution,Using Consensual Biterms from Text Structures of Requirements and Code to Improve IR-Based Traceability Recovery,"Hui Gao, Hongyu Kuang, Kexin Sun, Xiaoxing Ma, Alexander Egyed, Patrick Mäder, Guoping Rong, Dong Shao, He Zhang",False,No URL available
+domain_evolution,Twin Graph-based Anomaly Detection via Attentive Multi-Modal Learning for Microservice System,"Jun Huang, Yang Yang, Hang Yu, Jianguo Li, Xiao Zheng",False,No URL available
+domain_evolution,Dynamic Graph Neural Networks-based Alert Link Prediction for Online Service Systems,"Yiru Chen, Chenxi Zhang, Zhen Dong, Dingyu Yang, Xin Peng, Jiayu Ou, Hong Yang, Zheshun Wu, Xiaojun Qu, Wei Li",False,No URL available
+domain_evolution,Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion,"Cheryl Lee, Tianyi Yang, Zhuangbin Chen, Yuxin Su, Michael Lyu",False,No URL available
+domain_evolution,Vicious Cycles in Distributed Software Systems,"Shangshu Qian, Wen Fan, Lin Tan, Yongle Zhang",False,No URL available
+domain_evolution,Scene-Driven Exploration and GUI Modeling for Android Apps,"Xiangyu Zhang, Lingling Fan, Sen Chen, Yucheng Su, Boyuan Li",False,No URL available
+domain_evolution,Prism: Revealing Hidden Functional Clusters of Massive Instances in Cloud Systems,"Jinyang Liu, Zhihan Jiang, Jiazhen Gu, Junjie Huang, Zhuangbin Chen, Cong Feng, Zengyin Yang, Yongqiang Yang, Michael Lyu",False,No URL available
+domain_evolution,ConfTainter: Static Taint Analysis For Configuration Options,"Teng Wang, Haochen He, Xiaodong Liu, Shanshan Li, Zhouyang Jia, Yu Jiang, Qing Liao, Wang Li",False,No URL available
+domain_evolution,Are They All Good? Studying Practitioners' Expectations on the Readability of Log Messages,"Zhenhao Li, An Ran Chen, Xing Hu, Xin Xia, Tse-Hsun (Peter) Chen, Weiyi Shang",False,No URL available
+domain_evolution,LogOnline: A Semi-supervised Log-based Anomaly Detector Aided with Online Learning Mechanism,"Xuheng Wang, Jiaxing Song, Xu Zhang, Junshu Tang, Weihe Gao, Qingwei Lin, Xuheng Wang",False,No URL available
+domain_evolution,An Empirical Study of Malicious Code In PyPI Ecosystem,"Wenbo Guo, Zhengzi Xu, Chengwei Liu, Cheng Huang, Yong Fang, Yang Liu",False,No URL available
+domain_evolution,Mitigating Persistence of Open-Source Vulnerabilities in Maven Ecosystem,"Lyuye Zhang, Chengwei Liu, Sen Chen, Zhengzi Xu, Lingling Fan, Lida Zhao, Yiran Zhang, Yang Liu",False,No URL available
+domain_evolution,EALink: An Efficient and Accurate Pre-Trained Framework for Issue-Commit Link Recovery,"Chenyuan Zhang, Yanlin Wang, Zhao Wei, Yong Xu, Juhong Wang, Hui Li, Rongrong Ji",False,No URL available
+domain_evolution,Fork Entropy: Assessing the Diversity of Open Source Software Projects' Forks,"Liang Wang, Zhiwen Zheng, Xiangchen Wu, Baihui Sang, Jierui Zhang, Xianping Tao",False,No URL available
+domain_evolution,Personalized First Issue Recommender for Newcomers in Open Source Projects,"Wenxin Xiao, Jingyue Li, Hao He, Ruiqiao Qiu, Minghui Zhou",False,No URL available
+domain_evolution,Understanding and Enhancing Issue Prioritization in GitHub,"Yingying He, Wenhua Yang, Minxue Pan, Yasir Hussain, Yu Zhou",False,No URL available
+domain_evolution,"To Share, or Not to Share: Exploring Test-Case Reusability in Fork Ecosystems","Mukelabai Mukelabai, Christoph Derks, Jacob Krüger, Thorsten Berger",False,No URL available
+domain_evolution,LiSum: Open Source Software License Summarization with Multi-Task Learning,"Linyu Li, Sihan Xu, Yang Liu, Ya Gao, Xiangrui Cai, Jiarun Wu, Wenli Song, Zheli Liu",False,No URL available
+domain_evolution,Enhancing Malware Detection for Android Apps: Detecting Fine-granularity Malicious Components,"Zhijie Liu, Liangfeng Zhang, Yutian Tang",False,No URL available
+domain_evolution,Fine-Grained In-Context Permission Classification for Android Apps using Control-Flow Graph Embedding,"Vikas K. Malviya, Yan Naing Tun, Chee Wei Leow, Ailys Tee Xynyn, Lwin Khin Shar, Lingxiao Jiang",False,No URL available
+domain_evolution,How Android Apps Break the Data Minimization Principle: An Empirical Study,"Shaokun Zhang, Hanwen Lei, Yuanpeng Wang, Ding Li, Yao Guo, Xiangqun Chen",False,No URL available
+domain_evolution,ReuNify: A Step Towards Whole Program Analysis for React Native Android App,"Yonghui Liu, Xiao Chen, Pei Liu, John Grundy, Chunyang Chen, Li Li",False,No URL available
+domain_evolution,Vision-based Widget Mapping for Test Migration across Mobile Platforms: Are We There Yet?,"Ruihua Ji, Tingwei Zhu, Xiaoqing Zhu, Chunyang Chen, Minxue Pan, Tian Zhang",False,No URL available
+domain_evolution,Where to Go Now? Finding Alternatives for Declining Packages in the npm Ecosystem,"Suhaib Mujahid, Diego Costa, Rabe Abdalkareem, Emad Shihab",False,No URL available
+domain_evolution,ESRO: Experience Assisted Service Reliability against Outages,"Sarthak Chakraborty, Shubham Agarwal, Shaddy Garg, Abhimanyu Sethia, Udit Narayan Pandey, Videh Aggarwal, Shiv Saini",False,No URL available
+domain_evolution,Fixing Privilege Escalations in Cloud Access Control with MaxSAT and Graph Neural Networks,"Yang Hu, Wenxi Wang, Sarfraz Khurshid, Kenneth L. McMillan, Mohit Tiwari",False,No URL available
+domain_evolution,Automated Software Entity Matching Between Successive Versions,"Bo Liu, Hui Liu, Nan Niu, Yuxia Zhang, Guangjie Li, Yanjie Jiang",False,No URL available
+domain_requirements_modelling,Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum,"Zibin Zheng, Neng Zhang, Jianzhong Su, Zhijie Zhong, Mingxi Ye, Jiachi Chen",False,No URL available
+domain_requirements_modelling,Robustification of Behavioral Designs against Environmental Deviations,"Changjian Zhang, Tarang Saluja, Rômulo Meira-Góes, Matthew Bolton, David Garlan, Eunsuk Kang",False,No URL available
+domain_requirements_modelling,MalWhiteout: Reducing Label Errors in Android Malware Detection,"Liu Wang, Haoyu Wang, Xiapu Luo, Yulei Sui",False,No URL available
+domain_requirements_modelling,A Comprehensive Evaluation of Android ICC Resolution Techniques,"Jiwei Yan, Shixin Zhang, Yepang Liu, Xi Deng, Jun Yan, Jian Zhang",False,No URL available
+domain_requirements_modelling,Unsupervised Summarization of Privacy Concerns in Mobile Application Reviews,"Fahimeh Ebrahimi, Anas ""Nash"" Mahmoud",False,No URL available
+domain_requirements_modelling,The Metamorphosis: Automatic Detection of Scaling Issues for Mobile Apps,"Yuhui Su, Chunyang Chen, Junjie Wang, Zhe Liu, Dandan Wang, Shoubin Li, Qing Wang",False,No URL available
+domain_requirements_modelling,"A Hybrid Approach for Inference between Behavioral Exception API Documentation and Implementations, and Its Applications","Hoan Anh Nguyen, Hung Phan, Samantha Syeda Khairunnesa, Son Nguyen, Aashish Yadavally, Shaohua Wang, Hridesh Rajan, Tien N. Nguyen",False,No URL available
+domain_requirements_modelling,Empirical Study of System Resources Abused by IoT Attackers,"Zijing Yin, Yiwen Xu, Chijin Zhou, Yu Jiang",False,No URL available
+domain_requirements_modelling,Exploiting Epochs and Symmetries in Analysing MPI Programs,"Rishabh Ranjan, Ishita Agrawal, Subodh Sharma",False,No URL available
+domain_requirements_modelling,Graph based Incident Extraction and Diagnosis in Large-Scale Online Systems,"Zilong He, Pengfei Chen, Yu Luo, Qiuyu Yan, Hongyang Chen, Guangba  Yu, Fangyuan Li",False,No URL available
+domain_requirements_modelling,Adaptive REST API Testing with Reinforcement Learning,"Myeongsoo Kim, Saurabh Sinha, Alessandro Orso",False,No URL available
+domain_requirements_modelling,Increasing the Responsiveness of Web Applications by Introducing Lazy Loading,"Alexi Turcotte, Satyajit Gokhale, Frank Tip",False,No URL available
+domain_requirements_modelling,"Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain","Qing Huang, Zhenyu Wan, Zhenchang Xing, Changjing Wang, Jieshan Chen, Xiwei (Sherry) Xu, Qinghua Lu",False,No URL available
+domain_requirements_modelling,PTdetector: An Automated JavaScript Front-end Library Detector,"Xinyue Liu, Lukasz Ziarek",False,No URL available
+domain_requirements_modelling,Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing,"Shuyao Jiang, Ruiying Zeng, Zihao Rao, Jiazhen Gu, Yangfan Zhou, Michael Lyu",False,No URL available
+domain_requirements_modelling,AI-based Question Answering Assistance for Analyzing Natural-language Requirements,"Saad Ezzini, Sallam Abualhaija, Chetan Arora, Mehrdad Sabetzadeh",False,No URL available
+domain_requirements_modelling,"Strategies, Benefits and Challenges of App Store-inspired Requirements Elicitation","Alessio Ferrari, Paola Spoletini",False,No URL available
+domain_requirements_modelling,Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps,"Kaifa ZHAO, Xian Zhan, Le Yu, Shiyao Zhou, Hao Zhou, Xiapu Luo, Haoyu Wang, Yepang Liu",False,No URL available
+domain_requirements_modelling,"Demystifying Issues, Challenges, and Solutions for Multilingual Software Development","Haoran Yang, Weile Lian, Shaowei Wang, Haipeng Cai",False,No URL available
+domain_requirements_modelling,Usability-Oriented Design of Liquid Types for Java,"Catarina Gamboa, Paulo Canelas, Christopher Steven Timperley, Alcides Fonseca",False,No URL available
+domain_human_social,Is It Enough to Recommend Tasks to Newcomers? Understanding Mentoring on Good First Issues,"Xin Tan, Yiran Chen, Haohua Wu, Minghui Zhou, Li Zhang",False,No URL available
+domain_human_social,From Organizations to Individuals: Psychoactive Substance Use By Professional Programmers,"Kaia Newman, Madeline Endres, Westley Weimer, Brittany Johnson",False,No URL available
+domain_human_social,On the Self-Governance and Episodic Changes in Apache Incubator Projects: An Empirical Study,"Likang Yin, Xiyu Zhang, Vladimir Filkov",False,No URL available
+domain_human_social,Socio-Technical Anti-Patterns in Building ML-Enabled Software: Insights from Leaders on the Forefront,"Alina Mailach, Norbert Siegmund",False,No URL available
+domain_human_social,Moving on from the software engineers' gambit: an approach to support the defense of software effort estimates,"Patricia Matsubara, Igor Steinmacher, Bruno Gadelha, Tayana Conte",False,No URL available
+domain_human_social,Automated Summarization of Stack Overflow Posts,"Bonan Kou, Muhao Chen, Tianyi Zhang",False,No URL available
+domain_human_social,Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence,"zejun zhang, Zhenchang Xing, Xin Xia, Xiwei (Sherry) Xu, Liming Zhu, Qinghua Lu",False,No URL available
+domain_human_social,Incident-aware Duplicate Ticket Aggregation for Cloud Systems,"Jinyang Liu, Shilin He, Zhuangbin Chen, Liqun Li, Yu Kang, Xu Zhang, Pinjia He, Hongyu Zhang, Qingwei Lin, Zhangwei Xu, Saravan Rajmohan, Dongmei Zhang, Michael Lyu",False,No URL available
+domain_human_social,Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction,"Sungmin Kang, Juyeon Yoon, Shin Yoo",False,No URL available
+domain_human_social,Context-aware Bug Reproduction for Mobile Apps,"Yuchao Huang, Junjie Wang, Zhe Liu, Song Wang, Chunyang Chen, Mingyang Li, Qing Wang",False,No URL available
+domain_human_social,On the Applicability of Language Models to Block-Based Programs,"Elisabeth Griebl, Benedikt Fein, Florian Obermueller, Gordon Fraser, René Just",False,No URL available
+domain_human_social,“My GitHub Sponsors profile is live!” Investigating the Impact of Twitter/X Mentions on GitHub Sponsors,"Youmei Fan, Tao Xiao, Hideaki Hata, Christoph Treude, Kenichi Matsumoto",False,No URL available
+domain_human_social,A Theory of Scientific Programming Efficacy,"Elizaveta Pertseva, Melinda Chang, Ulia Zaman, Michael Coblenz",False,No URL available
+domain_human_social,Mining Pull Requests to Detect Process Anomalies in Open Source Software Development,"Bohan Liu, He Zhang, Weigang Ma, Hongyu Kuang, Yi Yang, Jinwei Xu, Shan Gao, Jian Gao",False,No URL available
+domain_human_social,Barriers for Students During Code Change Comprehension,"Justin Middleton, John-Paul Ore, Kathryn Stolee",False,No URL available
+domain_human_social,“I tend to view ads almost like a pestilence”: On the Accessibility Implications of Mobile Ads for Blind Users,"Ziyao He, Syed Fatiul Huq, Sam Malek",False,No URL available
+domain_human_social,Co-Creation in Fully Remote Software Teams,"Victoria Jackson, Rafael Prikladnicki, Andre van der Hoek",False,No URL available
+domain_human_social,A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges,"Jenny T. Liang, Chenyang Yang, Brad A. Myers",False,No URL available
+domain_human_social,How to Support ML End-User Programmers through a Conversational Agent,"Emily Judith Arteaga Garcia, João Felipe Pimentel, Zixuan Feng, Marco Gerosa, Igor Steinmacher, Anita Sarma",False,No URL available
+domain_human_social,Unveiling the Life Cycle of User Feedback: Best Practices from Software Practitioners,"Ze Shi Li, Nowshin Nawar Arony, Kezia Devathasan, Manish Sihag, Neil Ernst, Daniela Damian",False,No URL available
+domain_human_social,"Novelty Begets Popularity, But Curbs Participation - A Macroscopic View of the Python Open-Source Ecosystem","Hongbo Fang, Jim Herbsleb, Bogdan Vasilescu",False,No URL available
+domain_human_social,"Characterizing Software Maintenance Meetings: Information Shared, Discussion Outcomes, and Information Captured","Adriana Meza Soria, Taylor Lopez, Liz Seero, Negin Mashhadi, Emily Evans, Janet Burge, André van der Hoek",False,No URL available
+domain_human_social,On the Helpfulness of Answering Developer Questions on Discord with Similar Conversations and Posts from the Past,"Alexander Lill, André N. Meyer, Thomas Fritz",False,No URL available
+domain_human_social,Do CONTRIBUTING files provide information about OSS newcomers' onboarding barriers?,"Felipe Fronchetti, David C. Shepherd, Igor Scaliante Wiese, Christoph Treude, Marco Gerosa, Igor Steinmacher",False,No URL available
+domain_human_social,How Early Participation Determines Long-Term Sustained Activity in GitHub Projects?,"Wenxin Xiao, Hao He, Weiwei Xu, Yuxia Zhang, Minghui Zhou",False,No URL available
+domain_human_social,[Remote] Towards Automated Detection of Unethical Behavior in Open-source Software Projects,"Hsu Myat Win, Haibo Wang, Shin Hwei Tan",False,No URL available
+domain_human_social,Flow experience in software engineering,"Saima Ritonummi, Valtteri Siitonen, Markus Salo, Henri Pirkkalainen, Anu Sivunen",False,No URL available
+domain_human_social,An Analysis of the Costs and Benefits of Autocomplete in IDEs,"Shaokang Jiang, Michael Coblenz",False,No URL available
+domain_human_social,Shadows in the Interface: A Comprehensive Study on Dark Patterns,"Liming Nie, Yangyang Zhao, Chenglin Li, Xuqiong Luo, Yang Liu",False,No URL available
+domain_human_social,Can GPT-4 Replicate Empirical Software Engineering Research?,"Jenny T. Liang, Carmen Badea, Christian Bird, Robert DeLine, Denae Ford, Nicole Forsgren, Thomas Zimmermann",False,No URL available
+domain_human_social,Do Code Generation Models Think Like Us? - A Study of Attention Alignment between Large Language Models and Human Programmers,"Bonan Kou, Shengmai Chen, Zhijie Wang, Lei Ma, Tianyi Zhang",False,No URL available
+domain_human_social,Do Words Have Power? Understanding and Fostering Civility in Code Review Discussion,"Md Shamimur Rahman, Zadia Codabux, Chanchal K. Roy",False,No URL available
+domain_human_social,Effective Teaching through Code Reviews: Patterns and Anti-Patterns,"Anita Sarma, Nina Chen",False,No URL available
+domain_human_social,"Rocks Coding, Not Development–A Human-Centric, Experimental Evaluation of LLM-Supported SE Tasks","Wei Wang, Huilong Ning, Gaowei Zhang, Libo Liu, Yi Wang",False,No URL available
+domain_human_social,Beyond Code Generation: An Observational Study of ChatGPT Usage in Software Engineering Practice,"Ranim Khojah, Mazen Mohamad, Philipp Leitner, Francisco Gomes de Oliveira Neto",False,No URL available
+domain_human_social,How to Gain Commit Rights in Modern Top Open Source Communities?,"Xin Tan, Yan Gong, Geyu Huang, Haohua Wu, Li Zhang",False,No URL available
+domain_human_social,Data Augmentation for Improving Emotion Recognition in Software Engineering Communication,"Mia Mohammad Imran, Yashasvi Jain, Preetha Chatterjee, Kostadin Damevski",False,No URL available
+domain_human_social,On the Relationship Between Code Verifiability and Understandability,"Kobi Feldman, Martin Kellogg, Oscar Chaparro",False,No URL available
+domain_human_social,[Remote] Software Architecture in Practice: Challenges and Opportunities,"Zhiyuan Wan, Yun Zhang, Xin Xia, Yi Jiang, David Lo",False,No URL available
+domain_human_social,An Empirical Study on Focal Methods in Deep-Learning-Based Approaches for Assertion Generation,"Yibo He, Jiaming Huang, Hao Yu, Tao Xie",False,No URL available
+domain_human_social,"Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in Virtual Reality Applications","Shuqing Li, Cuiyun Gao, Jianping Zhang, Yujia Zhang, Yepang Liu, Jiazhen Gu, Yun Peng, Michael Lyu",False,No URL available
+domain_human_social,State Reconciliation Defects in Infrastructure as Code,"Md Mahadi Hassan, John Salvador, Shubhra Kanti Karmaker Santu, Akond Rahman",False,No URL available
+domain_human_social,Understanding and Detecting Annotation-induced Faults of Static Analyzers,"Huaien Zhang, Yu Pei, Shuyun Liang, Shin Hwei Tan",False,No URL available
+domain_human_social,AROMA: Automatic Reproduction of Maven Artifacts,"Mehdi Keshani, Tudor-Gabriel Velican, Gideon Bot, Sebastian Proksch",False,No URL available

@@ -1,4 +1,8 @@
 # Virtual environment directory
 conferences_scraper/
 
+# Macod system file
 .DS_Store
+
+# debugging file
+ after_sr4_papers_pool.csv

@@ -1,0 +1,69 @@
+Domain,Paper Name,Authors,Distinguished,URL
+domain_dependability_security,BFTDetector: Automatic Detection of Business Flow Tampering for Digital Content Service,"I Luk Kim, Weihang Wang, Yonghwi Kwon, Xiangyu Zhang",False,No URL available
+domain_dependability_security,Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection,"Yizhou Chen, Zeyu Sun, Zhihao Gong, Dan Hao",False,No URL available
+domain_dependability_security,Precise (Un)Affected Version Analysis for Web Vulnerabilities,"ShiYoukun, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Min Yang",False,No URL available
+domain_dependability_security,GLITCH: Automated Polyglot Security Smell Detection in Infrastructure as Code,"Nuno Saavedra, João F. Ferreira",False,No URL available
+domain_dependability_security,FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing,"Ziqi Zhang, Yuanchun Li, Bingyan Liu, Yifeng Cai, Ding Li, Yao Guo, Xiangqun Chen",False,No URL available
+domain_dependability_security,An Empirical Study of Automation in Software Security Patch Management,"Nesara Dissanayake, Asangi Jayatilaka, Mansooreh Zahedi, Muhammad Ali Babar",False,No URL available
+domain_dependability_security,Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach,"Zhuo Zhang, Yan Lei, Meng Yan, Yue Yu, Jiachi Chen, Shangwen Wang, Xiaoguang Mao",False,No URL available
+domain_dependability_security,Scalable Relational Analysis via Relational Bound Propagation,"Clay Stevens, Hamid Bagheri",False,No URL available
+domain_dependability_security,Are They Toeing the Line? Diagnosing Privacy Compliance Violations among Browser Extensions,"Yuxi Ling, Kailong Wang, Guangdong Bai, Haoyu Wang, Jin Song Dong",False,No URL available
+domain_dependability_security,Understanding Transaction Bugs in Database Systems,"Ziyu Cui, Wensheng Dou, Yu Gao, Dong Wang, Jiansen Song, Yingying Zheng, Tao Wang, Rui Yang, Kang Xu, Yixin Hu, Jun Wei, Tao Huang",False,No URL available
+domain_dependability_security,Scrutinizing Privacy Policy Compliance of Virtual Personal Assistant Apps,"Fuman Xie, Yanjun Zhang, Chuan Yan, Suwan Li, Lei Bu, Kai Chen, Zi Huang, Guangdong Bai",False,No URL available
+domain_dependability_security,ThirdEye: Attention Maps for Safe Autonomous Driving Systems,"Andrea Stocco, Paulo J. Nunes, Marcelo d'Amorim, Paolo Tonella",False,No URL available
+domain_dependability_security,VGX: Large-Scale Sample Generation for Boosting Learning-Based Software Vulnerability Analyses,"Yu Nong, Richard Fang, Guangbei Yi, Kunsong Zhao, Xiapu Luo, Feng Chen, Haipeng Cai",False,No URL available
+domain_dependability_security,GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis,"Yuqiang Sun, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu",False,No URL available
+domain_dependability_security,Bad Snakes: Understanding and Improving Python Package Index Malware Scanning,"Duc Ly Vu, Zachary Newman, John Speed Meyers",False,No URL available
+domain_dependability_security,Investigating Documented Privacy Changes in Android OS,"Chuan Yan, Mark Huasong Meng, Fuman Xie, Guangdong Bai",False,No URL available
+domain_dependability_security,Combining Structured Static Code Information and Dynamic Symbolic Traces for Software Vulnerability Prediction,"Huanting Wang, Zhanyong Tang, Shin Hwei Tan, Jie Wang, Yuzhe Liu, Hejun Fang, Chunwei Xia, Zheng Wang",False,No URL available
+domain_dependability_security,Keyword Extraction From Specification Documents for Planning Security Mechanisms,"Jeffy Jahfar Poozhithara, Hazeline Asuncion, Brent Lagesse",False,No URL available
+domain_dependability_security,A User-centered Security Evaluation of Copilot,"Owura Asare, Mei Nagappan, N. Asokan",False,No URL available
+domain_dependability_security,[Remote] Distinguishing Look-Alike Innocent and Vulnerable Code by Subtle Semantic Representation Learning and Explanation,"Chao Ni, Xin Yin, Kaiwen Yang, Dehai Zhao, Zhenchang Xing, Xin Xia",False,No URL available
+domain_dependability_security,Toward Improved Deep Learning-based Vulnerability Detection,"Adriana Sejfia, Satyaki Das, Saad Shafiq, Nenad Medvidović",False,No URL available
+domain_dependability_security,Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems,"Sicong Cao, Xiaobing Sun, Xiaoxue Wu, David Lo, Lili Bo, Bin Li, Wei Liu",False,No URL available
+domain_dependability_security,VulGen: Realistic Vulnerability Generation Via Pattern Mining and Deep Learning,"Yu Nong, Yuzhe Ou, Michael Pradel, Feng Chen, Haipeng Cai",False,No URL available
+domain_dependability_security,Towards More Practical Automation of Vulnerability Assessment,"Shengyi Pan, Lingfeng Bao, Jiayuan Zhou, Xing Hu, Xin Xia, Shanping Li",False,No URL available
+domain_dependability_security,AdHere: Automated Detection and Repair of Intrusive Ads,"Yutian Yan, Yunhui Zheng, Xinyue Liu, Nenad Medvidović, Weihang Wang",False,No URL available
+domain_dependability_security,Your Code Secret Belongs to Me: Neural Code Completion Tools Can Memorize Hard-coded Credentials,"Yizhan Huang, Yichen LI, Weibin Wu, Jianping Zhang, Michael Lyu",False,No URL available
+domain_dependability_security,On the Contents and Utility of IoT Cybersecurity Guidelines,"Jesse Chen, Dharun Anandayuvaraj, James C. Davis, Sazzadur Rahaman",False,No URL available
+domain_dependability_security,Understanding the Threats of Upstream Vulnerabilities to Downstream Projects in the Maven Ecosystem,"Yulun Wu, Zeliang Yu, Ming Wen, Qiang Li, Deqing Zou, Hai Jin",False,No URL available
+domain_dependability_security,Insight: Exploring Cross-Ecosystem Vulnerability Impacts,"Meiqiu Xu, Ying Wang, Shing-Chi Cheung, Hai Yu, Zhiliang Zhu",False,No URL available
+domain_dependability_security,SecBench.js: An Executable Security Benchmark Suite for Server-Side JavaScript,"Masudul Hasan Masud Bhuiyan, Adithya Srinivas Parthasarathy, Nikos Vasilakis, Michael Pradel, Cristian-Alexandru Staicu",False,No URL available
+domain_dependability_security,Enabling Runtime Verification of Causal Discovery Algorithms with Automated Conditional Independence Reasoning,"Pingchuan Ma, Zhenlan Ji, Peisen Yao, Shuai Wang, Kui Ren",False,No URL available
+domain_dependability_security,[Remote] Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java,"Kaixuan Li, Sen Chen, Lingling Fan, Ruitao Feng, Han Liu, Chengwei Liu, Yang Liu, Yixiang Chen",False,No URL available
+domain_dependability_security,Kind Controllers and Fast Heuristics for Non-Well-Separated GR(1) Specifications,"Ariel Gorenstein, Shahar Maoz, Jan Oliver Ringert",False,No URL available
+domain_dependability_security,Demystifying Invariant Effectiveness for Securing Smart Contracts,"Zhiyang Chen, Ye Liu, Sidi Mohamed Beillahi, Yi Li, Fan Long",False,No URL available
+domain_dependability_security,PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG),"Ruichao Liang, Jing Chen, Kun He, Yueming Wu, Gelei Deng, Ruiying Du, Cong Wu",False,No URL available
+domain_dependability_security,On the Effectiveness of Function-Level Vulnerability Detectors for Inter-Procedural Vulnerabilities,"Zhen Li, Ning Wang, Deqing Zou, Yating Li, Ruqian Zhang, Shouhuai Xu, Chao Zhang, Hai Jin",False,No URL available
+domain_dependability_security,Crystallizer: A Hybrid Path Analysis Framework To Aid in Uncovering Deserialization Vulnerabilities,"Prashast Srivastava, Flavio Toffalini, Kostyantyn Vorobyov, François Gauthier, Antonio Bianchi, Mathias Payer",False,No URL available
+domain_dependability_security,Identifying Affected Libraries and Their Ecosystems for Open Source Software Vulnerabilities,"Susheng Wu, Wenyan Song, Kaifeng Huang, Bihuan Chen, Xin Peng",False,No URL available
+domain_dependability_security,Keeping Secrets: Multi-objective Genetic Improvement for Detecting and Reducing Information Leakage,"Ibrahim Mesecan, Daniel Blackwell, David Clark, Myra Cohen, Justyna Petke",False,No URL available
+domain_dependability_security,Investigating White-Box Attacks for On-Device Models,"Mingyi Zhou, Xiang Gao, Jing Wu, Kui Liu, Hailong Sun, Li Li",False,No URL available
+domain_dependability_security,MetaLog: Generalizable Cross-System Anomaly Detection from Logs with Meta-Learning,"Chenyangguang Zhang, Tong Jia, Guopeng Shen, Pinyan Zhu, Ying Li",False,No URL available
+domain_dependability_security,An Empirical Study on Oculus Virtual Reality Applications: Security and Privacy Perspectives,"Hanyang Guo, Hong-Ning Dai, Xiapu Luo, Zibin Zheng, Gengyang Xu, Fengliang He",False,No URL available
+domain_dependability_security,CoLeFunDa: Explainable Silent Vulnerability Fix Identification,"Jiayuan Zhou, Michael Pacheco, Jinfu Chen, Xing Hu, Xin Xia, David Lo, Ahmed E. Hassan",False,No URL available
+domain_dependability_security,DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities,"Jianzhong Su, Xingwei Lin, Zhiyuan Fang, Zhirong Zhu, Jiachi Chen, Zibin Zheng, Wei Lv, Jiashui Wang",False,No URL available
+domain_dependability_security,On Privacy Weaknesses and Vulnerabilities in Software Systems,"Pattaraporn Sangaroonsilp, Hoa Khanh Dam, Aditya Ghose",False,No URL available
+domain_dependability_security,Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning,"Xin-Cheng Wen, Yupan, Cuiyun Gao, Hongyu Zhang, Jie M. Zhang, Qing Liao",False,No URL available
+domain_dependability_security,REDriver: Runtime Enforcement for Autonomous Vehicles,"Yang Sun, Chris Poskitt, Xiaodong Zhang, Jun Sun",False,No URL available
+domain_dependability_security,PTPDroid: Detecting Violated User Privacy Disclosures to Third-Parties of Android Apps,"Zeya Tan, Wei Song",False,No URL available
+domain_dependability_security,DocFlow: Extracting Taint Specifications from Software Documentation,"Marcos Tileria, Jorge Blasco, Santanu Dash",False,No URL available
+domain_dependability_security,SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network,"Feng Luo, Ruijie Luo, Ting Chen, Ao Qiao, Zheyuan He, Shuwei Song, Yu Jiang, Sixing Li",False,No URL available
+domain_dependability_security,Enhancing Deep Learning-based Vulnerability Detection by Building Behavior Graph Model,"Bin Yuan, Yifan Lu, Yilin Fang, Yueming Wu, Deqing Zou, Zhen Li, Zhi Li, Hai Jin",False,No URL available
+domain_dependability_security,Chronos: Time-Aware Zero-Shot Identification of Libraries from Vulnerability Reports,"Yunbo Lyu, Le-Cong Thanh, Hong Jin Kang, Ratnadira Widyasari, Zhipeng Zhao, Xuan-Bach D. Le, Ming Li, David Lo",False,No URL available
+domain_dependability_security,Towards Causal Deep Learning for Vulnerability Detection,"Md Mahbubur Rahman, Ira Ceka, Chengzhi Mao, Saikat Chakraborty, Baishakhi Ray, Wei Le",False,No URL available
+domain_dependability_security,Learning to Locate and Describe Vulnerabilities,"Jian Zhang, Shangqing Liu, Xu Wang, Li Tianlin, Yang Liu",False,No URL available
+domain_dependability_security,LibvDiff: Library Version Difference Guided OSS Version Identification in Binaries,"Chaopeng Dong, Siyuan Li, shouguo yang, Yang Xiao, Yongpan Wang, Hong Li, Zhi Li, Limin Sun",False,No URL available
+domain_dependability_security,PS3: Precise Patch Presence Test based on Semantic Symbolic Signature,"Qi Zhan, Xing Hu, Zhiyang Li, Xin Xia, David Lo, Shanping Li",False,No URL available
+domain_dependability_security,Marco: A Stochastic Asynchronous Concolic Explorer,"Jie Hu, Yue Duan, Heng Yin",False,No URL available
+domain_dependability_security,MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty,"haodong li, Guosheng Xu, Liu Wang, Xusheng Xiao, Xiapu Luo, Guoai Xu, Haoyu Wang",False,No URL available
+domain_dependability_security,SCPatcher: Mining Crowd Security Discussions to Enrich Secure Coding Practices,"Ziyou Jiang, Lin Shi, Guowei Yang, Qing Wang",False,No URL available
+domain_dependability_security,Software Composition Analysis for Vulnerability Detection: An Empirical Study on Java Projects,"Lida Zhao, Sen Chen, Zhengzi Xu, Chengwei Liu, Lyuye Zhang, Wu Jiahui, Jun Sun, Yang Liu",False,No URL available
+domain_dependability_security,Pre-training by Predicting Program Dependencies for Vulnerability Analysis Tasks,"Zhongxin Liu, Zhijie Tang, Junwei Zhang, Xin Xia, Xiaohu Yang",False,No URL available
+domain_dependability_security,Fairness Improvement with Multiple Protected Attributes: How Far Are We?,"Zhenpeng Chen, Jie M. Zhang, Federica Sarro, Mark Harman",False,No URL available
+domain_dependability_security,PPM: Automated Generation of Diverse Programming Problems for Benchmarking Code Generation Models,"Simin Chen, XiaoNing Feng, Xiaohong Han, Cong Liu, Wei Yang",False,No URL available
+domain_dependability_security,"It's Not a Feature, It's a Bug: Fault-Tolerant Model Mining from Noisy Data","Felix Wallner, Bernhard Aichernig, Christian Burghard",False,No URL available
+domain_dependability_security,A Needle is an Outlier in a Haystack: Hunting Malicious PyPI Packages with Code Clustering,"Wentao Liang, Xiang Ling, Jingzheng Wu, Tianyue Luo, Yanjun Wu",False,No URL available
+domain_dependability_security,Data Leakage in Notebooks: Static Detection and Better Processes,"Chenyang Yang, Rachel A Brower-Sinning, Grace Lewis, Christian Kästner",False,No URL available
+domain_dependability_security,VD-Guard: DMA Guided Fuzzing for Hypervisor Virtual Device,"Yuwei Liu, Siqi Chen, Yuchong Xie, Yanhao Wang, Libo Chen, Bin Wang, Yingming Zeng, Zhi Xue, Purui Su",False,No URL available
+domain_dependability_security,AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities,"Asem Ghaleb, Julia Rubin, Karthik Pattabiraman",False,No URL available
