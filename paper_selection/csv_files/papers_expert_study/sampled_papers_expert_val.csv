@@ -1,0 +1,277 @@
+Domain,Knowledge-seeking vs. Eval,Nerd factor/zu spezifisch,Validation Nerd Factor,Distinguished,Bucket ID,Paper Name,Research Questions (max. 4),URL
+"AI and software engineering, Auto-coding",Knowledge-seeking,-1,1,FALSE,-,Towards Understanding Fairness and its Composition in Ensemble Machine Learning,"RQ1: What are the fairness measures of various ensemble techniques? 
+• RQ2: How does fairness compose in ensemble models? 
+• RQ3: Can ensemble-related hyperparameters be chosen to design fair ensemble models?",https://arxiv.org/abs/2212.04593
+"AI and software engineering, Auto-coding",Evaluation,-1 (NLL?),1,FALSE,-,An Empirical Study on Noisy Label Learning for Program Understanding,"RQ1:Howdodifferenttypes of synthetic label noises in program classification affect the performance of deep learning models when NLL is not introduced? • 
+RQ2:Howdoexisting NLL approaches perform on different synthetic noises in program classification? 
+• RQ3:HowdoNLLapproaches perform on program understanding tasks with real-world noises?",https://arxiv.org/abs/2307.08990
+"AI and software engineering, Auto-coding",Knowledge-seeking,0,0,FALSE,B1,Development in times of hype: How freelancers explore Generative AI?,RQ: What challenges do freelancers experience when developing solutions based on generative AI? ,https://doi.org/10.1145/3597503.3639111
+"AI and software engineering, Auto-coding",Knowledge-seeking,0,0,FALSE,B1,Using an LLM to Help With Code Understanding,"RQ1: To what extent does GILT affect developers’ understanding, task completion time, and task completion rates when faced with unfamiliar code? 
+• RQ2: How do developers interact with GILT, and to what extent does that differ between the participants? 
+• RQ3: Howdodevelopers perceive the usefulness of GILT?",No URL available
+"AI and software engineering, Auto-coding",Knowledge-seeking,-1,0,TRUE,B1,Can Machine Learning Pipelines Be Better Configured?,"• RQ1 (Common ML Library Combinations): What combinations of ML libraries do developers commonly use? To answer
+RQ1, we collect 11,363 published ML pipelines and analyze their
+library usage to identify common library combinations.
+• RQ2 (Impacts of Different ML Library Version Combinations): Do different version combinations of ML libraries
+affect pipelines’ performances? To answer RQ2, for each ML
+pipeline, we generate a series of variants with different ML library
+version combinations to inspect their performance inconsistencies. In particular, we define the generation rules of ML library
+version combinations, to systematically explore their impacts on
+pipelines’ performances.
+• RQ3 (Root Causes of Performance Inconsistencies): What
+are the root causes of pipelines’ performance inconsistencies when adopting different version combinations of ML
+libraries? To answer RQ3, we consider the pipeline variants that
+induce (1) significant performance inconsistencies, (2) crashes
+and (3) NaN bugs as subjects, to analyze the corresponding root
+causes and triggering conditions.",https://2023.esec-fse.org/details/fse-2023-research-papers/111/Can-Machine-Learning-Pipelines-Be-Better-Configured-
+"AI and software engineering, Auto-coding",Evaluation,0,0,FALSE,B2,Reusing Deep Neural Network Models through Model Re-engineering,"RQ1: How effective is our model re-engineering approach
+in reusing trained models?
+• RQ2: Does reusing a re-engineered model incur less overhead than reusing the original model?
+• RQ3: Does reusing the re-engineered model mitigate the
+defect inheritance?",No URL available
+"AI and software engineering, Auto-coding",Evaluation,0,0,FALSE,B2,Flexible and Optimal Dependency Management via Max-SMT,"RQ1: Can MAXNPM find better solutions than NPM when
+given different optimization objectives?
+RQ2: Do MAXNPM’s solutions pass existing test suites?
+RQ3: Does MAXNPM successfully solve packages that NPM
+solves?
+RQ4: Does using MAXNPM substantially increase solving
+time?",https://arxiv.org/abs/2203.13737
+"AI and software engineering, Auto-coding",Evaluation,0,0,TRUE,B2,Improving the Learning of Code Review Successive Tasks with Cross-Task Knowledge Distillation,"RQ1: Accuracy on code refinement Howdoesthe coderefinementmodel,guidedbythe qualityestimationmodel, perform compared to baseline models? 
+• RQ2: Accuracy on comment generation How does the comment generation model, guided by the code refinement model (and the embedding alignment), perform compared to baseline models? 
+• RQ3: Effect of the embedding alignment objective Considering that the inclusion of the embedding has an effect on the training cost, do we have similar results without considering the embedding? 
+• RQ4: Training time of DISCOREV What is the additional time of the joint training compared to baseline models?",No URL available
+Analytics,Knowledge-seeking,-1,1,FALSE,-,When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference,"RQ1:For different inputs, how many layers of the LCM are indispensable to yield correct predictions? 
+RQ2:Is it advantageous to continue code completion after a wrong token has been generated?",https://arxiv.org/pdf/2401.09964.pdf
+Analytics,Evaluation,"-1 (CNN spezifisch; ich kann mir ungefährt vorstellen, was mit Modularisierung gemeint ist, aber nicht genug um eine RQ zu benatworten)",1,TRUE,-,Modularizing while Training: a New Paradigm for Modularizing DNN Models,"RQ1:HoweffectiveisMwTintrainingandmodularizingCNN models? 
+•RQ2:HowefficientisMwTintrainingandmodularizingCNN models? 
+•RQ3:HoweffectiveisMwTinreusingCNNmodules? 
+•RQ4:Howdothemajorhyper-parametersinfluencetheperformanceofMwT?",https://arxiv.org/pdf/2306.09376.pdf
+Analytics,Knowledge-Seeking,0,0,FALSE,B5,The Smelly Eight: An Empirical Study on the Prevalence of Code Smells in Quantum Computing,"RQ1: How do practitioners perceive quantum-specific
+code smells?
+RQ2: What is the prevalence of quantum-specific code
+smells in quantum programs?",https://jose.github.io/assets/pdfs/ICSE2023-paper.pdf
+Analytics,Knowledge-seeking,0,0,FALSE,B5,CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation,"RQ1: How much do developers prefer specific third-party
+libraries when coding?
+RQ2: To what extent are developers familiar with the
+contextual intricacies of third-party libraries when coding?
+RQ3: How effective are current code generation models
+at generating code for specific third-party libraries without
+specific fine-tuning on library-related data?",https://mingwei-liu.github.io/files/ase2023-CodeGen4Libs.pdf
+Analytics,Evaluation,0,0,FALSE,B6,SkCoder: A Sketch-based Approach for Automatic Code Generation,"RQ1: How does SKCODER perform compared to SOTA
+baselines? 
+RQ2: What are the contributions of different modules in
+our approach? 
+RQ3: What is the better design choice of the sketcher?",https://arxiv.org/abs/2302.06144
+Analytics,Evaluation,0,0,FALSE,B6,Studying and Understanding the Tradeoffs Between Generality and Reduction in Software Debloating,"RQ1:Howdotheapproaches considered compare in terms of reduction, c-generality, and their tradeoff? 
+• RQ2:Howdotheapproaches considered compare in terms of reduction, r-generality, and their tradeoff? 
+• RQ3: How do the approaches considered perform when an increasing amount of inputs is used for debloating? 
+• RQ4:Howefficient are the approaches?",No URL available
+Analytics,Evaluation,0,0,TRUE,B6,Generative Type Inference for Python,"RQ1: How effective is TYPEGEN in type inference
+compared with existing approaches?
+• RQ2: How capable is TYPEGEN in language models with
+different parameter sizes?
+• RQ3: What are the impacts of different parts in the
+prompt design of TYPEGEN?
+• RQ4: What are the impacts of different examples in
+TYPEGEN?",https://arxiv.org/abs/2307.09163
+Dependability and Security,Knowledge-seeking,-1 (SAST Hintergrundwissen notwendig?),1,TRUE,-,Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?,"RQ1:CoverageAnalysis. To what extent do existing SAST tools support different vulnerability types?
+RQ2: Effectiveness Analysis. How effective are these SAST tools in detecting vulnerabilities on our benchmark?
+RQ3: Consistency Analysis. This research question focuses on two consistency analyses: 1) Are the detection results consistent among these tools in terms of the detected vulnerability categories? 2) How e ective are these SAST tools when combining their detecting results?
+RQ4: E iciency Analysis. How e cient are these SAST tools to perform an analysis?",https://arxiv.org/abs/2404.18186
+Dependability and Security,Evaluation,0,1,TRUE,-,Lejacon: A Lightweight and Efficient Approach to Java Confidential Computing on SGX,"RQ1 Can Lejacon support Java confidential computing
+effectively?
+• RQ2 Can Java applications achieve competitive performance on Lejacon, compared with some state-of-the-art
+runtime system(s)?
+• RQ3 Can Lejacon be practically used in running Java
+confidential computing tasks?",https://ddst.sjtu.edu.cn/Management/Upload/[News]a845acae286b470bb55013c1b5e425e2/20232101456536725sSV.pdf
+Dependability and Security,Knowledge-seeking,0,0,FALSE,B13,Measuring Secure Coding Practice and Culture: A Finger Pointing at the Moon is not the Moon,"Research Question 1: What are the secure-coding characteristics of our sample group? 
+Research Question 2: What are the security culture characteristics of our sample group? 
+Research Question 3: Do secure coding practice and culture correlate, and if not, what lessons can we learn to help support the development of secure coding?",https://user-group.github.io/pub/ICSE2023moon.pdf
+Dependability and Security,Knowledge-seeking,0,0,FALSE,B13,An Empirical Study of Deep Learning Models for Vulnerability Detection,"RQ1 Do models agree on the vulnerability detection results? What are the variabilities across different runs of a model and across different models? 
+• RQ2 Are certain types of vulnerabilities easier to detect? Should we build models for each type of vulnerabilities or should we build one model that can detect all the vulnerabilities? 
+• RQ3 Are programs with certain code features harder to be predicted correctly by current models, and if so, what are those code features?
+• RQ4 Can increasing the dataset size help improve the
+model performance for vulnerability detection?",https://doi.org/10.48550/arXiv.2212.08109
+Dependability and Security,Knowledge-seeking,0,0,FALSE,B13,What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?,"• RQ1: What are the technical challenges faced by developers related to checked-in secrets?
+RQ1.1 What are the questions developers ask about
+checked-in secrets?
+RQ1.2 Which questions related to checked-in secrets
+exhibit more unsatisfactory answers?
+• RQ1.3 Which questions are the most
+• RQ2: What solutions do developers get for mitigating
+checked-in secrets?
+",https://arxiv.org/pdf/2301.12377.pdf
+Dependability and Security,Evaluation,-1,0,FALSE,B14,Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation,"• RQ1: How is the accuracy of silent dependency alert classification?
+• RQ2: How is the accuracy of explainable vulnerability key
+aspect generation?
+• RQ3: How useful is our explainable silent dependency alert
+prediction compared with only binary patch classification?",No URL available
+Dependability and Security,Evaluation,-1 (detaillierteres Wissen zu Web APIs notwendig?),0,FALSE,B14,Automated Black-box Testing of Mass Assignment Vulnerabilities in RESTful APIs,"RQ1: What is the accuracy of the automated identification of operations CRUD semantics, resource types, and resource-id parameters? Second, the main objective of our approach is to reveal mass assignment vulnerabilities in REST APIs, this is investigated by the following research question.             
+RQ2: What is the accuracy in revealing mass assignment vulnerabilities in REST APIs? Finally, our approach should be able to deal with real-world production-ready REST services, that can be complex and large in size. Hence, the last research question investigates the scalability of the approach on large REST APIs. 
+RQ3: Does the proposed approach to detect mass assignment vulnerabilities scale to large REST APIs?",https://arxiv.org/abs/2301.01261
+Dependability and Security,Evaluation,-1,0,TRUE,B14,Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects,"RQ1: How is CORAL compared with other cutting-edge
+remediation tools regarding security and compatibility?
+RQ2: How effectively does CORAL resolve the challenge of
+global optimization by subgraph partitioning?
+RQ3: How many vulnerabilities CAN/CANNOT be fixed
+without breaking the projects in the Maven ecosystem?",No URL available
+Evolution,Evaluation,"-1 (SMT Selection?, Vorwissen zu GNNs notwendig?)",-1,TRUE,-,Sibyl: Improving Software Engineering Tools with SMT Selection,"RQ1: For each domain, what portion of queries is the overall
+fastest SMT solver the fastest? Depending on the domain, the
+overall fastest solver is the fastest on 2.6% to 38.9% of the
+queries.
+RQ2: How does Sibyl’s predictions compare to other algorithm selectors on software engineering domains? Sibyl’s
+predictions are 37.6% to 159.7% better than existing selectors.
+RQ3: How does Sibyl’s overhead affect its performance?
+Sibyl’s overhead is non-negligible, but there is evidence to
+suggest a more efficient implementation will greatly reduce it.
+RQ4: How do the components of Sibyl’s GNN contribute to
+its performance? When combined, the core GNN components
+of Sibyl – GAT layers and a jumping knowledge layer –
+improve Sibyl’s performance substantially",https://github.com/will-leeson/sibyl/blob/main/Sibyl_ICSE_Paper.pdf
+Evolution,Knowledge-seeking,0,0,FALSE,B7,Repeated Builds During Code Review: An Empirical Study of the OpenStack Community,"RQ1. How often are failing CI jobs rechecked?
+RQ2. How often do CI outcomes change after a recheck?
+RQ3. How much overhead is generated by rechecking
+builds?",https://rebels.cs.uwaterloo.ca/papers/ase2023_maipradit.pdf
+Evolution,Knowledge-seeking,-1 (kein Go Vorwissen; breaking changes?),0,FALSE,B7,A Large-Scale Empirical Study on Semantic Versioning in Golang Ecosystem,"RQ1: How are semantic versioning compliance applied
+in the Go ecosystem in terms of breaking changes?
+• RQ2: How much adherence to semantic versioning compliance has increased over time?
+• RQ3: What about the impact of breaking changes on
+client programs?",https://arxiv.org/abs/2309.02894
+Evolution,"Knowledge-seeking 
+Evaluation","-1 
+(detaillierteres Wissen zu Python notwendig?)",0,TRUE,B7,Hard to Read and Understand Pythonic Idioms? DeIdiom and Explain Them in Non-Idiomatic Equivalent Code,"RQ1: Whatchallenges do pythonic idioms present to Python users in terms of understanding? 
+RQ2: Howare pythonic idioms used in real projects? 
+RQ3: Howare conciseness of pythonic idioms manifested? 
+RQ4: What are the potential negative effects of using pythonic idioms?
+
+RQ1(Accuracy): How accurate is our approach when transforming idiomatic code of nine pythonic idioms into non-idiomatic code? 
+RQ2(Usefulness): Is the generated non-idiomatic code useful for understanding pythonic idiom usage?",No URL available
+Evolution,Evaluation,0,0,FALSE,B8,Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports,"RQ1: What is Janus𝑣𝑖𝑠’s duplicate detection performance? 
+RQ2: What is Janus𝑡𝑥𝑡’s duplicate detection performance? 
+RQ3: What is Janus𝑠𝑒𝑞’s duplicate detection performance? 
+RQ4: What is the performance of Janus’s component combinations?",No URL available
+Evolution,Evaluation,0,0,FALSE,B8,Developer-Intent Driven Code Comment Generation,"RQ1 : How does the DOME perform compared to the stateof-the-art comment generation baselines?
+RQ2: How does each individual component in DOME
+contribute to the overall performance?
+RQ3: What is the perceived quality of intent-aware comments generated by DOME?",https://arxiv.org/abs/2302.07055
+Evolution,Evaluation,0,0,TRUE,B8,Has My Release Disobeyed Semantic Versioning? Static Detection Based On Semantic Differencing,"RQ1:WhatistheaccuracyofSembidintermsofSemBdetection? 
+RQ2:HowistheeffectivenessofSembidagainstunittests? 
+RQ3:HowdotopJavalibrariescomplywithSemVerrules?",No URL available
+Human and social aspects,Evaluation,"-1
+(bin mir unsicher, ob da nicht Wissen zum Gehirn usw. benötigt sind)",-1,TRUE,-,Causal Relationships and Programming Outcomes: A Transcranial Magnetic Stimulation Experiment,"RQ1: Can wereplicate prior findings that neurostimulation of the SMA reduces mental rotation completion times? 
+RQ2: Is there a direct causal relationship between activity in the SMA(or M1) brain region alone and performance? 
+RQ3: Does neurostimulation of the SMA or M1 brain regions affect objective computing performance outcomes? 
+RQ4: Does neurostimulation in the SMA or M1 brain region affect self-perceived problem difficulty?",No URL available
+Human and social aspects,Knowledge-seeking,0,0,FALSE,B11,How does Simulation-based Testing for Self-driving Cars match Human Perception?,"RQ1: To what extent does the OOB safety metric for simulation-based test cases of SDCs align with human safety assessment?
+RQ2: To what extent does the safety assessment of simulation-based SDC test cases vary when humans can interact with the SDC?
+RQ3: What are the main reality-gap characteristics perceived by humans in SDC test cases?",No URL available
+Human and social aspects,Knowledge-seeking,0,0,FALSE,B11,"A Case Study of Developer Bots: Motivations, Perceptions, and Challenges","RQ1: What processes and needs motivate developers to instrument bots in a large software engineering organization? What challenges do they face in developing the bots? 
+RQ2: What is the experience of developers when using various developer bots (bene ts and challenges)? 
+RQ3: Howdodevelopersengagewithdi erenttypesofdeveloper bots?",https://2023.esec-fse.org/details/fse-2023-research-papers/7/A-Case-Study-of-Developer-Bots-Motivations-Perceptions-and-Challenges
+Human and social aspects,Knowledge-seeking,0,0,TRUE,B11,“STILL AROUND”: Experiences and Survival Strategies of Veteran Women Software Developers,"RQ1. What age- and gender-specific experiences have
+veteran software developers of marginalized genders had
+in their careers?
+• RQ2. What strategies have veteran software developers
+of marginalized genders adopted that they perceive as
+contributing to their survival in software engineering?",https://arxiv.org/abs/2302.03723
+Human and social aspects,Evaluation,0,0,FALSE,B12,"Semi-Automatic, Inline and Collaborative Web Page Code Curations","RQ1: Can our approach help developers identify and curate relevant implicit links between web pages and specific source code locations? 
+RQ2: Can developers successfully leverage previouslycurated links on their own change tasks?",No URL available
+Human and social aspects,Evaluation,0,0,FALSE,B12,"AI-assisted Code Authoring at Scale: Fine-tuning, deploying, and mixed methods evaluation","RQ1. Model Evaluation: How well does CodeCompose generate one hidden line of code from existing code snippets?
+RQ2. Adoption: How many suggestions are accepted by engineers and what proportion of the code is written by CodeCompose?
+RQ3. Developer Feedback: How do developers perceive CodeCompose in their daily work?",No URL available
+Human and social aspects,Evaluation,0,0,TRUE,B12,"GenderMag Improves Discoverability in the Field, Especially for Women","Hypothesis1:Intheversion of Critique that was not designed using GenderMag, discoverability is significantly higher for men than for women.
+Hypothesis 2: In the version of Critique that was redesigned using GenderMag,discoverability of Suggest Edit increased, especially for women.",https://www.computer.org/csdl/proceedings-article/icse/2024/021700a973/1V5Bl3jMYVO
+Requirements and modeling,Evaluation,0,1,FALSE,-,SmartCoCo: Checking Comment-code Inconsistency in Smart Contracts via Constraint Propagation and Binding,"RQ1: What is the prevalence of security-related
+comment-code inconsistencies in smart contracts?
+• RQ2: What is the effectiveness of SmartCoCo in detecting comment-code inconsistencies?
+• RQ3: What is the performance in checking a smart
+contract with proposed constraints?
+• RQ4: Can large language models check CCIs identified
+by SmartCoCo?",https://doi.org/10.1109/ASE56229.2023.00142
+Requirements and modeling,Evaluation,-1 (RQ2 Begriffe?),1,FALSE,-,TRIAD: Automated Traceability Recovery based on Biterm-enhanced Deduction of Transitive Links among Artifacts,"RQ1: To what extent does TRIAD exceed the performance of baseline approaches? 
+RQ2: What is the individual impact of biterms, outer- and inner-transitive on performance?",https://arxiv.org/pdf/2312.16854.pdf
+Requirements and modeling,Knowledge-seeking,0,0,FALSE,B9,A Comprehensive Study on Code Clones in Automated Driving Software,"RQ1: To what extent do code clones occur in automated
+driving software?
+–If a large number of code clones exist in automated driving
+software, meaning code cloning deserves more attention in
+such software systems. Hence, we examined the existence of
+code clones by calculating their amounts and lines of code
+(LOC).
+RQ2. Do code clones have a tendency to introduce bugs in
+automated driving software?
+–In this question, we analyzed whether and to what extent
+code clones bring bugs into automated driving software.
+RQ3. Do code clones in automated driving software have
+co-modifications?
+RQ4. How do code clones in autonomous driving software
+distribute over different modules? Which modules have more
+bug-prone and co-modified clones?",https://github.com/vvioletNego/ccParser/blob/master/ase23-main-575.pdf
+Requirements and modeling,Knowledge-seeking,0,0,FALSE,B9,Too Much Accessibility is Harmful! Automated Detection and Analysis of Overly Accessible Elements in Mobile Apps,"RQ1. Howaccurate is OverSight in detecting OA elements? 
+RQ2. How prevalent are over-access problems in securityconcerned apps? 
+RQ3. What are the potential impacts of OA elements on different apps and communities? 
+RQ4. What is the performance of OverSight?",No URL available
+Requirements and modeling,Knowledge-seeking,0,0,TRUE,B9,A Qualitative Study on the Implementation Design Decisions of Developers,"RQ1: What implementation design decisions do software
+developers make?
+• RQ2: What considerations do software developers have
+while making implementation design decisions?
+• RQ3: What process do software developers follow to
+make implementation design decisions?
+• RQ4: Which types of developer expertise are described
+in the implementation decision-making process?",https://arxiv.org/abs/2301.09789
+Requirements and modeling,Evaluation,0,0,FALSE,B10,Groundhog: An Automated Accessibility Crawler for Mobile Apps,"RQ1.HoweffectiveisGroundhogindetectingaccessibilityissues? 
+RQ2.HowdoesGroundhogcomparetoGoogleAccessibility Scanner(theofficialaccessibilitytestingtoolinAndroid)? 
+RQ3.Whatarethecharacteristicsof thedetectedaccessibility issues?Howdotheyimpactappusageforuserswithdisabilities? 
+RQ4.WhatistheperformanceofGroundhog?Towhatextent optimizationimprovesitsperformance?",No URL available
+Requirements and modeling,Evaluation,0,0,FALSE,B10,Generating Critical Test Scenarios for Autonomous Driving Systems via Influential Behavior Patterns,"RQ1:Howeffective is CRISCO in finding safety violations of ADS? 
+RQ2: How effective and efficient is CRISCO to expose safety violations compared to existing state-of-the-art technique? 
+RQ3: Is CRISCO able to generate more types of safety-violation scenarios which are different from the traffic collisions occurred in the selected datasets inD and Stanford Drone?",No URL available
+Requirements and modeling,Evaluation,0,0,TRUE,B10,Analyzing and Debugging Normative Requirements via Satisfiability Checking,Howeffective is LEGOS-SLEEC in detecting WFIs?,No URL available
+Testing and analysis,Knowledge-seeking,-1,1,FALSE,-,AST-Probe: Recovering abstract syntax trees from hidden representations of pre-trained language models,"–RQ1:CantheAST-Probelearn to parse on top of any informative code representation 4?
+– RQ2: Which pre-trained language model best encodes the AST in its hidden representations? Wecompare a total of six pre-trained language models for three programming languages and assess which one best encodes the AST of input codes.
+– RQ3: What layers of the pre-trained language models encode the AST better? Weapply our probe to specific hidden representation spaces of intermediate layers of the models and compare the probe effectiveness over the layers.
+– RQ4: What is the dimension of the syntactic subspace S? To end our experiments, we are interested in how compact is the syntactic subspace in the hidden representation spaces of the pre-trained language models.",https://arxiv.org/pdf/2206.11719.pdf
+Testing and analysis,Evaluation,"-1
+(end-to end fault loc.?, mutation selection konnte ich mir einigermaßen herleiten --> hab aber lein tieferes Verständnis, was man aber auch nicht braucht zum Beantworten der RQ fidne ich)",1,TRUE,-,Mutation-based Fault Localization of Deep Neural Networks,"• RQ1 (Effectiveness):
+1) How does deepmufl compare to state-of-the-art tools
+in terms of the number of bugs detected?
+2) How many bugs does deepmufl detect from each subcategory of model bugs in our dataset and how does
+that compare to state-of-the-art tools?
+3) What are the overlap of detected bugs among deepmufl and other fault localization techniques?
+• RQ2 (Efficiency):
+1) What is the impact of mutation selection on the
+effectiveness and efficiency of deepmufl?
+2) How does deepmufl compare to state-of-the-art tools
+in terms of end-to-end fault localization time?",https://arxiv.org/abs/2309.05067
+Testing and analysis,Knowledge-seeking,0,0,FALSE,B3,Out of Context: How important is Local Context in Neural Program Repair?,"RQ1. How important is local context for repair success? We study multiple context sizes, ranging from a single line up to 28 lines on both sides (56 lines) on three datasets (MegaDiff [21], TSSB [29], and ManySStuBs4J [10], see Table 1), totalling several hundreds of thousands of bugs. 
+RQ2. Howdodifferentbugtypesandcomplexity(numberofchanges) respond to different context sizes and context window positions? Both, MaySStuBs4J [10] andTSSM-3M[29]classifybugsinto several bug types or bug patterns. We use this bug type labels to analyze how context size affects repair success for bugs of different types. We perform a similar analysis also for the number of changes of a bugfix. 
+RQ3. What is the optimal context window position? In other words, given a fixed context budget, how should it be divided among pre-context and post-context? We experiment with six different context window positions (for four different context window sizes), from only pre-context over several combinations to only post-context. 
+RQ4. Is there a connection between the model size (number of parameters), the number of sampled fix candidates and context? With more context, the amount of fix ingredients increases. Wehypothesize that in order to fully exploit context, model size should increase, as should the number of samples. We investigate if this is indeed the case.",No URL available
+Testing and analysis,Knowledge-seeking,0,0,FALSE,B3,Exploring Experiences with Automated Program Repair in Practice,"RQ1 What factors influence the awareness and adoption or use of APR in practice? 
+RQ2 To what extent are APR tool(s) being used in practice compared to other forms of support? 
+RQ3 Whatare the human-centric challenges faced by developers that can prevent the widespread use of APR tools?",No URL available
+Testing and analysis,Knowledge-seeking,0,0,TRUE,B3,Understanding and Detecting On-the-Fly Configuration Bugs,"RQ1: What are the common symptoms of OCBugs? 
+ RQ2: What are the root causes of OCBugs?
+RQ3: What are the triggering conditions of OCBugs?
+bzw. (aus den oberen RQs wurde ein Tool entiwckelt und mit den folgenden RQs untersucht)
+• RQ1: How effective is PARACHUTE in detecting
+known OCBugs? This question examines the recall of
+PARACHUTE by calculating the percentage of bugs that
+can be detected among all known bugs.
+• RQ2: How effective is PARACHUTE in detecting unknown OCBugs? This question evaluates the precision
+of PARACHUTE by calculating the percentage of true
+positives among all reported bugs.
+• RQ3: Can PARACHUTE outperform the state-of-the-art
+tool for detecting configuration update bugs? This question compares PARACHUTE with Staccato, the most related work for detecting OCBugs.",https://leopard-lab.github.io/paper/icse23-Parachute.pdf
+Testing and analysis,Evaluation,0,0,FALSE,B4,Accelerating Continuous Integration with Parallel Batch Testing,"RQ1:Howdoesparallelization affect the feedback time performance of TestAll with varying numbers of machines? 
+RQ2: How effective is ConstantBatching in terms of feedback time and execution reduction when executed in parallel with varying numbers of machines? 
+RQ3: How effective is BatchAll in terms of feedback time and execution reduction when executed in parallel with varying numbers of machines? 
+RQ4: How effective is TestCaseBatching in terms of feedback time and execution reduction when executed in parallel with varying numbers of machines? Our major contributions to this study are as follows.",https://arxiv.org/pdf/2308.13129
+Testing and analysis,Evaluation,0,0,FALSE,B4,PyTy: Repairing Static Type Errors in Python,"RQ1 Howeffective is our automated data gathering at producing minimal code changes that fix type errors? 
+RQ2 Howeffective is PyTy at fixing type errors? 
+RQ3 Howdovariants of PyTy compare to the full approach? 
+RQ4 Howdoes PyTy compare to state-of-the-art APR techniques?",https://dl.acm.org/doi/10.1145/3597503.3639184
+Testing and analysis,Evaluation,0,0,TRUE,B4,EndWatch: A Practical Method for Detecting Non-Termination in Real-World Software,"• RQ1: How effective is EndWatch on existing benchmark
+programs compared with the state-of-the-art tools?
+• RQ2: How effective is EndWatch on detecting CVEs in
+real world programs?
+• RQ3: How useful is EndWatch in finding zero-day nontermination bugs?",https://personal.ntu.edu.sg/yi_li/files/Zhang2023EAP.pdf

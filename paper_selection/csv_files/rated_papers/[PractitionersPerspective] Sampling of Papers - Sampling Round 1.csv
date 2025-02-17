@@ -1,0 +1,182 @@
+Domain,Knowledge-seeking vs. Eval,Nerd factor/zu spezifisch,Validation Nerd Factor,Higher-level RQ,Distinguished,Bucket ID,Paper Name,Research Questions (max. 4),Notiz,Suitability Tendenz,Authors,URL
+"AI and software engineering, Auto-coding",Evaluation,0,0,[Tool description]  How would you evaluate this tool/method?,TRUE,B2,Improving the Learning of Code Review Successive Tasks with Cross-Task Knowledge Distillation,"RQ1: Accuracy on code refinement
+How does the code refinement model, guided by the quality estimation model, perform compared
+to baseline models?
+• RQ2: Accuracy on comment generation
+How does the comment generation model, guided by the code refinement model (and the
+embedding alignment), perform compared to baseline models?
+• RQ3: Effect of the embedding alignment objective
+Considering that the inclusion of the embedding has an effect on the training cost, do we have
+similar results without considering the embedding?
+• RQ4: Training time of DISCOREV
+What is the additional time of the joint training compared to baseline models?",Tool Evaluation,-1,"Oussama Ben Sghaier, Houari Sahraoui",No URL available
+"AI and software engineering, Auto-coding",Knowledge-seeking,-1,0,,TRUE,B1,Can Machine Learning Pipelines Be Better Configured?,"• RQ1 (Common ML Library Combinations): What combinations of ML libraries do developers commonly use? To answer
+RQ1, we collect 11,363 published ML pipelines and analyze their
+library usage to identify common library combinations.
+• RQ2 (Impacts of Different ML Library Version Combinations): Do different version combinations of ML libraries
+affect pipelines’ performances? To answer RQ2, for each ML
+pipeline, we generate a series of variants with different ML library
+version combinations to inspect their performance inconsistencies. In particular, we define the generation rules of ML library
+version combinations, to systematically explore their impacts on
+pipelines’ performances.
+• RQ3 (Root Causes of Performance Inconsistencies): What
+are the root causes of pipelines’ performance inconsistencies when adopting different version combinations of ML
+libraries? To answer RQ3, we consider the pipeline variants that
+induce (1) significant performance inconsistencies, (2) crashes
+and (3) NaN bugs as subjects, to analyze the corresponding root
+causes and triggering conditions.",Repoistory Mining,1,"Yibo Wang, Ying Wang, Tingwei Zhang, Yue Yu, Shing-Chi Cheung, Hai Yu, Zhiliang Zhu",No URL available
+"AI and software engineering, Auto-coding",Knowledge-seeking,-1 (MSF?),1,,TRUE,-,Benchmarking Robustness of AI-enabled Multi-sensor Fusion Systems: Challenges and Opportunities,"RQ1. HowdoAI-enabled MSF-based perception systems perform against common corrupted signals?
+RQ2. Howsensitive is AI-enabled MSF when facing spatial and temporal misalignment of sensors?
+RQ3. Towhatextent are existing sensing components coupled of an AI-enabled MSF system?
+RQ4. What is the weakness of di erent AI-enabled MSF mechanisms and is it possible to repair them?",Erklärungsbedarf für MSF; sehr spezifisch,-1,"Xinyu Gao, Zhijie Wang, Yang Feng, Lei Ma, Zhenyu Chen, Baowen Xu",No URL available
+"AI and software engineering, Auto-coding",Evaluation,-1 (NLL?),1,,FALSE,-,An Empirical Study on Noisy Label Learning for Program Understanding,"RQ1:Howdodifferenttypes of synthetic label noises in program classification affect the performance of deep learning models when NLL is not introduced? • 
+RQ2:Howdoexisting NLL approaches perform on different synthetic noises in program classification? 
+• RQ3:HowdoNLLapproaches perform on program understanding tasks with real-world noises?",Methodenevaluierung,-1,"Wenhan Wang, Yanzhou Li, Anran Li, Jian Zhang, Wei Ma, Yang Liu",No URL available
+"AI and software engineering, Auto-coding",Evaluation,0,0,,FALSE,B2,EGFE: End-to-end Grouping of Fragmented Elements in UI Designs with Multimodal Learning,"RQ1:(Elements Classification Performance) How does the EGFE perform compared to the state-of-the-art image classification baselines? 
+RQ2:(FragmentedElementsGroupingPerformance)What’s the performance of EGFE on fragmented elements grouping? 
+RQ3:(Multimodal UI Features Performance) How does each individual feature in EGFE improve the overall performance?",Tool Evaluation,-1,"Liuqing Chen, Yunnong Chen, Shuhong Xiao, Yaxuan Song, Lingyun Sun, Yankun Zhen, Tingting Zhou, Yanfang Chang",No URL available
+"AI and software engineering, Auto-coding",Evaluation,"-1 (stabilization, DPLL, isolation&combination???)",1,,FALSE,-,Harnessing Neuron Stability to Improve DNN Verification,"RQ1(§6.1): How does stabilization impact the performance of DPLL(T)-based DNN veri cation? 
+RQ2(§6.2): HowdoVeriStableoptimizationsimproveperformanceinisolationandcombination? 
+RQ3(§6.3): How does VeriStable compare to state-of-the-art DNN veri ers?",Very ML specifiv,0,"Hai Duong, Dong Xu, ThanhVu Nguyen, Matthew B Dwyer",No URL available
+Testing and analysis,Evaluation,-1 (braucht man Accounting Wissen?),1,,TRUE,-,Towards Finding Accounting Errors in Smart Contracts,"• RQ1.How effective is ScType indisclosingaccountingbugs? 
+• RQ2.Howefficient is ScType? 
+• RQ3.Whatarethecategoriesanddistributionsofaccounting bugs? 
+• RQ4.Whatis the capacity of our type system?",Tool Evaluation,-1,Brian Zhang,No URL available
+Testing and analysis,Evaluation,-1 (blocking errors?? -> Go Wissen notwendig?),-1,,TRUE,-,Detecting Blocking Errors in Go Programs using Localized Abstract Interpretation,"RQ1: What is the precision of the analysis for detecting blocking errors in real-world Go programs? 
+RQ2: How does the analysis accuracy compare to that of the state-of-the-art Go concurrency bug detection tools GCatch [14] and GFuzz [13]? 
+RQ3: Does the analysis scale to large code bases? RQ4: Are the central design choices (treatment of loops and thread scheduling) important for the analysis accuracy and performance?",Tool Evaluation,-1,"Oskar Haarklou Veileborg, Georgian-Vlad Saioc, Anders Møller",No URL available
+Testing and analysis,Evaluation,"-1 ( compiler fuzzing, partial operator??)",1,,TRUE,-,NeuRI: Diversifying DNN Generation via Inductive Rule Inference,"• RQ1(§5.2): How does NeuRI compare against state of the art in DL compiler fuzzing in terms of code coverage? 
+• RQ2 (§ 5.3): How many APIs, partial operators and records are collected and eventually inferred with operator rules? How e cient and e ective is our rule synthesizer compared with general-purpose program synthesis tools such as Rosette [48]? 
+• RQ3(§5.4): How e ective is NeuRI when detecting previously unknown bugs for real-world DL compilers?",Tool Evaluation,-1,"Jiawei Liu, Jinjun Peng, Yuyao Wang, Lingming Zhang",No URL available
+Testing and analysis,Knowledge-seeking,-1 (kein Rust unsafe Wissen),wahrscheinlich 1,,FALSE,-,Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming,"RQ-1.Whatfiner-grainedsafetyproperties(requirements)should be satisfied across the Unsafe Rust boundary? (§3) 
+• RQ-2. Can those safety properties cover existing vulnerabilities caused by Unsafe Rust? (§4) 
+• RQ-3. How helpful are those safety properties for real-world Unsafe Rust programming? (§5)",Rust sepecific; evtl. RQ3,-1,"Mohan Cui, Mohan Cui, Shuran Sun, Hui Xu, Yangfan Zhou",No URL available
+Testing and analysis,Evaluation,-1,-1,,FALSE,-,Generating Realistic and Diverse Tests for LiDAR-Based Perception Systems,"RQ1. How effective is the technique at uncovering failures defined at different levels of severity and which
+mutations are the most effective?
+• RQ2. How effective is the technique at generating realistic test cases?
+• RQ3. How efficient is the technique in terms of the time
+to generate the mutations?",Tool Evaluation,-1,"Garrett Christian, Trey Woodlief, Sebastian Elbaum",No URL available
+Testing and analysis,,(Sigmoid-like neural networks),1,,FALSE,,Provably Tightest Linear Approximation for Robustness Verification of Sigmoid-like Neural Networks,keine ,,0,"Zhaodi Zhang, Yiting Wu, Si Liu, Jing Liu, Min Zhang",No URL available
+Analytics,Evaluation,"-1 (CNN spezifisch; ich kann mir ungefährt vorstellen, was mit Modularisierung gemeint ist, aber nicht genug um eine RQ zu benatworten)",1,,TRUE,-,Modularizing while Training: a New Paradigm for Modularizing DNN Models,"RQ1:HoweffectiveisMwTintrainingandmodularizingCNN models? 
+•RQ2:HowefficientisMwTintrainingandmodularizingCNN models? 
+•RQ3:HoweffectiveisMwTinreusingCNNmodules? 
+•RQ4:Howdothemajorhyper-parametersinfluencetheperformanceofMwT?",ML specific,0,"Binhang Qi, Hailong Sun, Hongyu Zhang, Ruobing Zhao, Xiang Gao",No URL available
+Analytics,,,1,,TRUE,,"A Highly Scalable, Hybrid, Cross-Platform Timing Analysis Framework Providing Accurate Differential Throughput Estimation via Instruction-Level Tracing",keine???,,0,"Min-Yih Hsu, Felicitas Hetzelt, David Gens, Michael Maitland, Michael Franz",No URL available
+Analytics,Evaluation,0,0,,TRUE,B6,Code Search is All You Need? Improving Code Suggestions with Code Search,"RQ1:DoesCodeSearch Improve the Performance of Code Completion Using General Deep Learning Models?
+RQ2:DoesCodeSearchImprovethe PerformanceofCodeGenerationUsing LargeLanguageModels?
+RQ3:HowdoesRetrieval-Augmented ChatGPTPerformwithDifferentShot NumbersandPromptTemplates?
+",Tool Evaluation,-1,"Junkai Chen, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, David Lo",No URL available
+Analytics,Evaluation,"-1 (Code Edits? -> ich würde annehmen, dass es einfach Code Varianten sind?)",0,,FALSE,B6,GrACE: Language Models Meet Code Edits,"RQ1. Does availability of associated edits improve code update predictions? Does the answer depend on the prediction approach?
+RQ2. Are associated edits important for code update prediction, or simply serve as few-shot examples for the code update task?
+RQ3. Howdoes our LLM-based approach compare with the c3po approach based on a custom neural model on the associated code update task?
+RQ4.CanourLLMbasedapproachbeusedinconjunctionwith overwatch’stemporalassociatededitidenti cation?Howdoesit comparewithoverwatch’ssymboliceditpredictioncomponent?",Tool Evaluation,-1,"Priyanshu Gupta, Avishree Khare, Yasharth Bajpai, Saikat Chakraborty, Sumit Gulwani, Aditya Kanade, Arjun Radhakrishna, Gustavo Soares, Ashish Tiwari",No URL available
+Analytics,Evaluation,0,0,,FALSE,B6,Using Deep Learning to Automatically Improve Code Readability,"RQ1: How precise is our approach in identifying
+readability-improving commits? With our research question,
+we want to find out to what extent the defined dataset is
+reliable, i.e., how many false-positives it wrongly selects.
+RQ2: How does the proposed model perform compare to DL
+models designed to perform other coding tasks? With this first
+research question, we aim at exploring how feasible is using
+DL (T5, in our case) to automatically improve code readability
+by comparing it with the same model used for other coding
+tasks.
+RQ3: To what extent does the proposed model try to improve
+code readability? With this second research question, we want
+to understand whether the model tries to improve readability
+or it makes other operations that, for example, change the
+behavior of the source code.
+RQ4: To what extent does the proposed model improve
+code readability? With this final research question, we aim
+at understanding whether the model actually improves code
+readability when it does not change the input code behavior",Tool Evaluation,-1,"Antonio Vitale, Valentina Piantadosi, Simone Scalabrino, Rocco Oliveto",No URL available
+Analytics,Knowledge-seeking,-1,1,,FALSE,-,When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference,"RQ1:For different inputs, how many layers of the LCM are indispensable to yield correct predictions? 
+RQ2:Is it advantageous to continue code completion after a wrong token has been generated?",unclear,,"Zhensu Sun, Xiaoning Du, Fu Song, Shangwen Wang, Li Li",No URL available
+Evolution,Evaluation,"-1 (SMT Selection?, Vorwissen zu GNNs notwendig?)",-1,,TRUE,-,Sibyl: Improving Software Engineering Tools with SMT Selection,"RQ1: For each domain, what portion of queries is the overall
+fastest SMT solver the fastest? Depending on the domain, the
+overall fastest solver is the fastest on 2.6% to 38.9% of the
+queries.
+RQ2: How does Sibyl’s predictions compare to other algorithm selectors on software engineering domains? Sibyl’s
+predictions are 37.6% to 159.7% better than existing selectors.
+RQ3: How does Sibyl’s overhead affect its performance?
+Sibyl’s overhead is non-negligible, but there is evidence to
+suggest a more efficient implementation will greatly reduce it.
+RQ4: How do the components of Sibyl’s GNN contribute to
+its performance? When combined, the core GNN components
+of Sibyl – GAT layers and a jumping knowledge layer –
+improve Sibyl’s performance substantially",Tool Evaluation,-1,"Will Leeson, Matthew B Dwyer, Antonio Filieri",No URL available
+Evolution,Evaluation,0,0,,TRUE,B8,HyperAST: Enabling Efficient Analysis of Software Histories at Scale,"RQ1CanwecomputetheHyperASTcorrectlyoverseveral versions?Thisresearchquestionaimstoinvestigatethe soundconstructionoftheHyperAST. 
+RQ2HowdoestheHyperASTperformandscalecompared toatraditionalapproach?Thisaimstopositionthescalabilityperformanceofourcontributionoveralongevolution historywithanestablishedstate-of-the-artsolution. 
+RQ3HowdoestheHyperASTperformandscaleonthecode analysistaskoffindingreferencescomparedtoatraditionalapproach?Thisaimstoinvestigatewhetheracode analysistaskcanleverageontheHyperAST,thusopeninga newperspectivetoworkwiththeevolution/timedimension ratherthanononlyasingleversionatatime.",Tool Evaluation,-1,"Quentin Le-dilavrec, Djamel Eddine Khelladi, Arnaud Blouin, Jean-Marc Jézéquel",No URL available
+Evolution,,,,,TRUE,,DeepScaler: Holistic Autoscaling for Microservices Based on Spatiotemporal GNN with Adaptive Graph Learning,keine klare RQ,,0,"Chunyang Meng, Shijie Song, Haogang Tong, Maolin Pan, Yang Yu",No URL available
+Evolution,Evaluation,0,0,,FALSE,B8,On Using GUI Interaction Data to Improve Text Retrieval-based Bug Localization,"RQ1:WhatistheeffectofusingGUIinteraction information from different numbers of screens on bug localization performance? 
+• RQ2:Whatistheeffect of the type of GUI interaction information and augmentation method on bug localization performance? 
+• RQ3:Whataretheoverall best-performing combinations of using GUI interaction information?",Tool Evaluation,-1,"Junayed Mahmud, Nadeeshan De Silva, Safwat Ali Khan, Seyed Hooman Mostafavi, S M Hasan Mansur, Oscar Chaparro, Andrian (Andi) Marcus, Kevin Moran",No URL available
+Evolution,Knowledge-seeking,0,0,,FALSE,B7,Repeated Builds During Code Review: An Empirical Study of the OpenStack Community,"RQ1. How often are failing CI jobs rechecked?
+RQ2. How often do CI outcomes change after a recheck?
+RQ3. How much overhead is generated by rechecking
+builds?",Understanding practice,1,"Rungroj Maipradit, Dong Wang, Patanamon Thongtanunam, Raula Gaikovina Kula, Yasutaka Kamei, Shane McIntosh",No URL available
+Evolution,Knowledge-seeking,-1 (kein Go Vorwissen; breaking changes?),0,,FALSE,B7,A Large-Scale Empirical Study on Semantic Versioning in Golang Ecosystem,"RQ1: How are semantic versioning compliance applied
+in the Go ecosystem in terms of breaking changes?
+• RQ2: How much adherence to semantic versioning compliance has increased over time?
+• RQ3: What about the impact of breaking changes on
+client programs?",Understanding practice,1,"Wenke Li, Feng Wu, Cai Fu, Fan Zhou",No URL available
+Requirements and modeling,Knowledge-seeking,0,0,,TRUE,B9,A Qualitative Study on the Implementation Design Decisions of Developers,"RQ1: What implementation design decisions do software
+developers make?
+• RQ2: What considerations do software developers have
+while making implementation design decisions?
+• RQ3: What process do software developers follow to
+make implementation design decisions?
+• RQ4: Which types of developer expertise are described
+in the implementation decision-making process?",Understanding practice,1,"Jenny T. Liang, Maryam Arab, Minhyuk Ko, Amy Ko, Thomas LaToza",No URL available
+Requirements and modeling,Evaluation,0,0,,TRUE,B10,Analyzing and Debugging Normative Requirements via Satisfiability Checking,(RQ): Howeffective is LEGOS-SLEEC in detecting WFIs?,Tool Evaluation,-1,"Nick Feng, Lina Marsso, Sinem Getir Yaman, Yesugen Baatartogtokh, Reem Ayad, Victória Oldemburgo de Mello, Beverley Townsend, Isobel Standen, Ioannis Stefanakos, Calum Imrie, Genaína Nunes Rodrigues, Ana Cavalcanti, Radu Calinescu, Marsha Chechik",No URL available
+Requirements and modeling,Evaluation,0,0,,TRUE,B10,Compiler Testing using Template Java Programs,"RQ1: Howefficientis JAttack at generating programs and executing those generated programs with different JIT compilers? 
+RQ2: Howwell can JAttack be used for automated compiler testing via extracted templates from a large number of existing Java programs, andhowdoesitcomparewithstate-of-the-art automated JIT compiler testing? 
+RQ3: What critical bugs does JAttack detect in JIT compilers?",Tool Evaluation,-1,"Zhiqiang Zang, Nathan Wiatrek, Milos Gligoric, August Shi",No URL available
+Requirements and modeling,Evaluation,0,0,,FALSE,B10,ReFAIR: Toward a Context-Aware Recommender for Fairness Requirements Engineering,"RQ1. To what extent can ReFair classify ML-specific application domains from User Stories? 
+RQ2. To what extent can ReFair classify ML-specific tasks from User Stories?
+RQ3. To what extent can ReFair recommend sensitive features from User Stories?",Tool Evaluation,-1,"Carmine Ferrara, Francesco Casillo, Carmine Gravino, Andrea De Lucia, Fabio Palomba",No URL available
+Requirements and modeling,Evaluation,-1 (RQ2 Begriffe?),1,,FALSE,-,TRIAD: Automated Traceability Recovery based on Biterm-enhanced Deduction of Transitive Links among Artifacts,"RQ1: To what extent does TRIAD exceed the performance of baseline approaches? 
+RQ2: What is the individual impact of biterms, outer- and inner-transitive on performance?",Tool Evaluation,-1,"Hui Gao, Hongyu Kuang, Wesley Assunção, Christoph Mayr-Dorn, Guoping Rong, He Zhang, Xiaoxing Ma, Alexander Egyed",No URL available
+Requirements and modeling,Evaluation,0,0,,FALSE,B10,BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts,"RQ1: What is the effectiveness of our proposed methods
+for defect detection?
+RQ2: What is the exploitation status of Bitcoin scripts with
+defects?
+RQ3: Where are buggy scripts from, and how to avoid
+them?",Tool Evaluation,-1,"Peilin Zheng, Xiapu Luo, Zibin Zheng",No URL available
+Human and social aspects,,,,,TRUE,,AFour-Year Study of Student Contributions to OSS vs. OSS4SG with a Lightweight Intervention,keine klaren RQs,sehr spezifisch,0,"Zihan Fang, Madeline Endres, Thomas Zimmermann, Denae Ford, Westley Weimer, Kevin Leach, Yu Huang",No URL available
+Human and social aspects,Knowledge-seeking,0,0,,TRUE,B11,Do I Belong? Modeling Sense of Virtual Community Among Linux Kernel Contributors,"Research Question: How does a sense of virtual community develop in Open Source Software projects?
+Hypothesis 1 (H1). Open Source contributors motivated by social reasons have a higher sense of virtual community.
+Hypothesis 2 (H2). Open Source contributors motivated by hedonic reasons have a higher sense of virtual community
+Hypothesis 3 (H3). Open Source contributors motivated by moral reasons have a higher sense of virtual community.
+Hypothesis 4a (H4a). Power distance moderates the associationbetween Open Source contributors’ social motives and their sense of virtual community.
+",,1,"Bianca Trinkenreich, Klaas-Jan Stol, Anita Sarma, Daniel M. German, Marco Gerosa, Igor Steinmacher",No URL available
+Human and social aspects,Evaluation,0,0,,TRUE,B12,"GenderMag Improves Discoverability in the Field, Especially for Women","Hypothesis1:Intheversion of Critique that was not designed using GenderMag, discoverability is significantly higher for men than for women.
+Hypothesis 2: In the version of Critique that was redesigned using GenderMag,discoverability of Suggest Edit increased, especially for women.",Tool Evaluation,-1,"Emerson Murphy-Hill, Alberto Elizondo, Ambar Murillo, Marian Harbach, Bogdan Vasilescu, Delphine Carlson, Florian Dessloch",No URL available
+Human and social aspects,Knowledge-seeking,0,0,,FALSE,B11,[Remote] Understanding the topics and challenges of GPU programming by classifying and analyzing Stack Overflow posts,"RQ1: Topics and taxonomy. What GPU topics do developers ask about, and what is the taxonomy of those GPU topics? 
+RQ2: Characteristics of topics. How are the GPU topics characterized in terms of popularity, difficulty, and changing trends? 
+RQ3: Challenges. What are the challenges faced by developers for each GPU topic in the taxonomy?",,1,"Wenhua Yang, Chong Zhang, Minxue Pan",No URL available
+Human and social aspects,Evaluation,0,0,,FALSE,B12,Towards Greener Yet Powerful Code Generation via Quantization: An Empirical Study,"RQ1.Howeffectivearequantization techniques for greener code generation models? 
+• RQ2. Can quantized models maintain the prediction power of the corresponding full-precision models? 
+• RQ3.Howrobust are quantized models compared to the corresponding full-precision models? 
+• RQ4.Arequantizationtechniqueseffective for other code related generative tasks such as code summarization?",Tool Evaluation,-1,"Xiaokai Wei, Sujan Kumar Gonugondla, Shiqi Wang, Wasi Ahmad, Baishakhi Ray, Haifeng Qian, Xiaopeng LI, Varun Kumar, Zijian Wang, Yuchen Tian, Qing Sun, Ben Athiwaratkun, Mingyue Shang, Murali Krishna Ramanathan, Parminder Bhatia, Bing Xiang",No URL available
+Human and social aspects,Knowledge-seeking,0,0,,FALSE,B11,How Are Paid and Volunteer Open Source Developers Different? A Study of the Rust Project,"RQ1: Do paid developers and volunteers differ in their contribution behavior to the Rust project? Of key importance is OSS projects’ continuity and sustainability; long-term contributors play a key role in the long-term health of the project. Thus, our second research question is: 
+RQ2: Does being paid or not affect the possibility of a Rust developer becoming a long-term contributor to the Rust project? Finally, aside from actual contribution, how volunteers perceive paid developers is also important, because volunteers’ perceptions of their paid ‘colleagues’ may shape their collaboration with paid developers. Thus, our third research question is: 
+RQ3: How do volunteers perceive the participation of paid developers in the Rust project?",,1,"Yuxia Zhang, Mian Qin, Klaas-Jan Stol, Minghui Zhou, Hui Liu",No URL available
+Dependability and Security,,,,,TRUE,,Mate! Are You Really Aware? An Explainability-Guided Testing Framework for Robustness of Malware Detectors,keine,,0,"Ruoxi Sun, Jason Minhui Xue, Gareth Tyson, Tian Dong, Shaofeng Li, Shuo Wang, Haojin Zhu, Seyit Camtepe, Surya Nepal",No URL available
+Dependability and Security,Evaluation,0,1,,TRUE,-,Lejacon: A Lightweight and Efficient Approach to Java Confidential Computing on SGX,"RQ1 Can Lejacon support Java confidential computing
+effectively?
+• RQ2 Can Java applications achieve competitive performance on Lejacon, compared with some state-of-the-art
+runtime system(s)?
+• RQ3 Can Lejacon be practically used in running Java
+confidential computing tasks?",Tool Evaluation,-1,"Xinyuan Miao, Ziyi Lin, Shaojun Wang, Lei Yu, Sanhong Li, Zihan Wang, Pengbo Nie, Yuting Chen, Beijun Shen, He Jiang",No URL available
+Dependability and Security,Knowledge-seeking,-1 (SAST Hintergrundwissen notwendig?),1,,TRUE,-,Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?,"RQ1:CoverageAnalysis. To what extent do existing SAST tools support different vulnerability types?
+RQ2: Effectiveness Analysis. How effective are these SAST tools in detecting vulnerabilities on our benchmark?
+RQ3: Consistency Analysis. This research question focuses on two consistency analyses: 1) Are the detection results consistent among these tools in terms of the detected vulnerability categories? 2) How e ective are these SAST tools when combining their detecting results?
+RQ4: E iciency Analysis. How e cient are these SAST tools to perform an analysis?",SOTA Evaluation,-1,"Kaixuan Li, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, Yixiang Chen",No URL available
+Dependability and Security,,,,,FALSE,,Leveraging Practitioners' Feedback to Improve a Security Linter,keine,,0,"Sofia Reis, Rui Abreu, Marcelo d'Amorim, Daniel Fortunato",No URL available
+Dependability and Security,Evaluation,-1 (detaillierteres Wissen zu Web APIs notwendig?),0,,FALSE,B14,Automated Black-box Testing of Mass Assignment Vulnerabilities in RESTful APIs,"RQ1: What is the accuracy of the automated identification of operations CRUD semantics, resource types, and resource-id parameters? Second, the main objective of our approach is to reveal mass assignment vulnerabilities in REST APIs, this is investigated by the following research question.             
+RQ2: What is the accuracy in revealing mass assignment vulnerabilities in REST APIs? Finally, our approach should be able to deal with real-world production-ready REST services, that can be complex and large in size. Hence, the last research question investigates the scalability of the approach on large REST APIs. 
+RQ3: Does the proposed approach to detect mass assignment vulnerabilities scale to large REST APIs?",Tool Evaluation,-1,"Davide Corradini, Michele Pasqua, Mariano Ceccato",No URL available
+Dependability and Security,Evaluation,-1 (Wissen zu Taint Analysis notwendig?),1,,FALSE,-,ViaLin: Path-Aware Dynamic Taint Analysis for Android,"RQ1(Accuracy) How accurate is ViaLin in identifying RQ1.1 (Detection) taint flows? RQ1.2 (Path Construction) path information? 
+RQ2(Performance) What is the impact of ViaLin on RQ2.1 (Time Overhead) app execution time? RQ2.2 (Memory Overhead) consumed memory? 
+RQ3(Utility) How useful is ViaLin in practice?",Tool Evaluation,-1,"Khaled Ahmed, Yingying Wang, Mieszko Lis, Julia Rubin",No URL available
