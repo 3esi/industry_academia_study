@@ -1,0 +1,49 @@
+Domain,Knowledge-seeking vs. Eval,Nerd factor/zu spezifisch,Validation Nerd Factor,Higher-level RQ,Distinguished,Bucket ID,Paper Name,Research Questions (max. 4),Notiz,Suitability Tendenz,Authors,URL
+"AI and software engineering, Auto-coding",Evaluation,-,,,FALSE,-,Predicting Failures of Autoscaling Distributed Applications,"RQ1: Whatisthe variation in the size of the KPI set that a failure prediction model shall handle, for distributed applications with dynamically-scaling deployment? 
+RQ2: Can Preface predict failures in distributed applications that take full advantage of Kubernetes autoscaling? 
+RQ3: Can Preface predict multiple failures that occur simultaneously in different components of distributed applications? 
+RQ4: Can Preface be effective also by using a threshold-based failure detector rather than the Deep autoencoder neural network?",,,"Giovanni Denaro, Noura El Moussa, Rahim Heydarov, Francesco Lomio, Mauro Pezze, Ketai Qiu",No URL available
+"AI and software engineering, Auto-coding",Evaluation,-,,,FALSE,-,Enhancing Exploratory Testing by Large Language Model and Knowledge Graph,"RQ1:WhatisthequalityofSysKG-UTF? 
+RQ2:Whatisthequalityofgeneratedtestscenarios? 
+RQ3:Howusefularetestscenariosforexploratorytesting?",,,"Yanqi Su, Dianshu Liao, Zhenchang Xing, Qing Huang, Mulong Xie, Qinghua Lu, Xiwei (Sherry) Xu",No URL available
+"AI and software engineering, Auto-coding",Evaluation,-1,0,,FALSE,B2,A Comprehensive Study of Learning-based Android Malware Detectors under Challenging Environments,"RQ1: Howdovarious detectors perform under the ideal setting? To provide a reference for subsequent evaluations, we f irst evaluate the performance of various detectors on malware detection and Android software multi-category classification. 
+RQ2: Howdodifferent detectors perform on obfuscated samples? We evaluate the resilience of various detectors to different obfuscation techniques and analyze the factors that contribute to their differences in resilience. 
+RQ3: Howdoes concept drift affect the various detectors? Toevaluatetheabilityofdifferentdetectorstoalleviateconceptdrift, we conduct our experiments in two scenarios, including Android software evolution and new malware category emergence. 
+RQ4: Howdovariousdetectors perform under AEattacks? To answer this question, we evaluate the robustness of detectors using different adversarial example generation tools.",,,"Gao Cuiying, Gaozhun Huang, Heng Li, Bang Wu, Yueming Wu, Wei Yuan",No URL available
+Testing and analysis,Evaluation,-,,,TRUE,,An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair,,,,"Kai Huang, Xiangxin Meng, Jian Zhang, Yang Liu, Wenjie Wang, Shuhao Li, Yuqing Zhang",No URL available
+Testing and analysis,Evaluation,-,,,TRUE,,Efficient Greybox Fuzzing to Detect Memory Errors,,,,"Jinsheng Ba, Gregory J. Duck, Abhik Roychoudhury",No URL available
+Testing and analysis,Evaluation,-,,,TRUE,,An Automated Approach to Extracting Local Variables,,,,"Xiaye Chi, Hui Liu, Guangjie Li, Weixiao Wang, Yunni Xia, Yanjie Jiang, Yuxia Zhang, Weixing Ji",No URL available
+Testing and analysis,Evaluation,-,,,FALSE,,SMT Solver Validation Empowered by Large Pre-trained Language Models,,,,"Maolin Sun, Yibiao Yang, Yang Wang, Ming Wen, Haoxiang Jia, Yuming Zhou",No URL available
+Testing and analysis,Evaluation,-,,,FALSE,,Balancing Effectiveness and Flakiness of Non-Deterministic Machine Learning Tests,,,,"Chunqiu Steven Xia, Saikat Dutta, Sasa Misailovic, Darko Marinov, Lingming Zhang",No URL available
+Testing and analysis,Evaluation,-,,,FALSE,,Mobile Bug Report Reproduction via Global Search on the App UI Model,,,,"Zhaoxu Zhang, Fazle Mohammed Tawsif, Komei Ryu, Tingting Yu, William G.J. Halfond",No URL available
+Analytics,Evaluation,-,,,FALSE,,Less is More? An Empirical Study on Configuration Issues in Python PyPI Ecosystem,,,,"Yun Peng, Ruida Hu, Ruoke Wang, Cuiyun Gao, Shuqing Li, Michael Lyu",No URL available
+Analytics,Evaluation,-,,,FALSE,,TreeCen: Building Tree Graph for Scalable Semantic Code Clone Detection,,,,"Yutao Hu, Deqing Zou, Junru Peng, Yueming Wu, Junjie Shan, Hai Jin",No URL available
+Analytics,Evaluation,-,,,FALSE,,From Commit Message Generation to History-Aware Commit Message Completion,,,,"Aleksandra Eliseeva, Yaroslav Sokolov, Egor Bogomolov, Yaroslav Golubev, Danny Dig, Timofey Bryksin",No URL available
+Evolution,Evaluation,-,,,FALSE,,Prism: Decomposing Program Semantics for Code Clone Detection through Compilation,,,,"Haoran Li, wangsiqian, Weihong Quan, Xiaoli Gong, Huayou Su, Jin Zhang",No URL available
+Evolution,Evaluation,-,,,FALSE,,WeMinT: Tainting Sensitive Data Leaks in WeChat Mini-Programs,,,,"Shi Meng, Liu Wang, Shenao Wang, Kailong Wang, Xusheng Xiao, Guangdong Bai, Haoyu Wang",No URL available
+Evolution,Evaluation,-,,,FALSE,,Towards Efficient Build Ordering for Incremental Builds with Multiple Configurations,,,,"Jun Lyu, Shanshan Li, He Zhang, Lanxin Yang, Bohan Liu, Manuel Rigger",No URL available
+Requirements and modeling,,,,,FALSE,,Cornucopia: A Framework for Feedback Guided Generation of Binaries,,,,"Vidush Singhal, Akul Abhilash Pillai, Charitha Saumya, Milind Kulkarni, Aravind Machiry",No URL available
+Requirements and modeling,,,,,FALSE,,An Energy-Aware Approach to Design Self-Adaptive AI-based Applications on the Edge,,,,"Alessandro Tundo, Marco Mobilio, Shashikant Ilager, Ivona Brandic, Ezio Bartocci, Leonardo Mariani",No URL available
+Requirements and modeling,,,,,FALSE,,SmartMark: Software Watermarking Scheme for Smart Contracts,,,,"Taeyoung Kim, Yunhee Jang, Chanjong Lee, Hyungjoon Koo, hyoungshick kim",No URL available
+Human and social aspects,,,,,FALSE,,Constructing a System Knowledge Graph of User Tasks and Failures from Bug Reports to Support Soap Opera Testing,,,,"Yanqi Su, Zheming Han, Zhenchang Xing, Xin Xia, Xiwei (Sherry) Xu, Liming Zhu, Qinghua Lu",No URL available
+Human and social aspects,,,,,FALSE,,An empirical study on code review activity prediction in practice,,,,"Doriane Olewicki, Sarra Habchi, Bram Adams",No URL available
+Human and social aspects,,,,,FALSE,,"Read It, Don't Watch It: Captioning Bug Recordings Automatically",,,,"Sidong Feng, Mulong Xie, Yinxing Xue, Chunyang Chen",No URL available
+Dependability and Security,Evaluation,-1,,,FALSE,,Input-driven Dynamic Program Debloating for Code-reuse Attack Mitigation,"Codereduction.HowmuchcodecanPicupreducefrom thelibraries? 
+•Functionalityguarantee.Howaccurateisourmodel?Can thetargetprogramworkproperlyunderPicup? 
+•Security.HowmuchcanPicupimprovethesecurityofthe targetprogram? 
+•Runtimeoverhead.Howmuchistheruntimeoverhead introducedbyPicup?",,,"Xiaoke Wang, Tao Hui, Lei Zhao, Yueqiang Cheng",No URL available
+Dependability and Security,Evaluation,-1,,,FALSE,,DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection,"RQ1. Comparison with state-of-the-art DL-based Vulnerability Detection Approaches. How well does DEEPVD perform compared with the DL-based VD approaches? 
+RQ2. Detection on Different Types of Vulnerabilities. How does DEEPVD perform on different vulnerability types? 
+RQ3. Sensitivity Analysis. How do different components in DEEPVD affect its overall performance? 
+RQ4. Class Separability. How does DEEPVD provide the separability of the feature vectors of two classes (vulnerable and benign code) compared with the baselines?",,,"Wenbo Wang, Tien N. Nguyen, Shaohua Wang, Yi Li, Jiyuan Zhang, Aashish Yadavally",No URL available
+Dependability and Security,Knowledge-seeking,0,0,,FALSE,B13,Measuring Secure Coding Practice and Culture: A Finger Pointing at the Moon is not the Moon,"Research Question 1: What are the secure-coding characteristics of our sample group? 
+Research Question 2: What are the security culture characteristics of our sample group? 
+Research Question 3: Do secure coding practice and culture correlate, and if not, what lessons can we learn to help support the development of secure coding?",,,"Ita Ryan, Utz Roedig, Klaas-Jan Stol",No URL available
+,,,,,,,,,,,,No URL available
+,,,,,,,,,,,,No URL available
+,,,,,,,,,,,,No URL available
+,,,,,,,,,,,,No URL available
+,,,,,,,,,,,,No URL available
+,,,,,,,,,,,,No URL available
+,,,,,,,,,,,,No URL available
+,,,,,,,,,,,,No URL available

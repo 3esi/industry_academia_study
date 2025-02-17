@@ -1,0 +1,176 @@
+Domain,Knowledge-seeking vs. Eval,Nerd factor/zu spezifisch,Validation Nerd Factor,Higher-level RQ,Distinguished,Bucket ID,Paper Name,Research Questions (max. 4),Notiz,Suitability Tendenz,Authors,URL
+"AI and software engineering, Auto-coding",Evaluation,0,0,,TRUE,B2,Improving the Learning of Code Review Successive Tasks with Cross-Task Knowledge Distillation,"RQ1: Accuracy on code refinement Howdoesthe coderefinementmodel,guidedbythe qualityestimationmodel, perform compared to baseline models? 
+• RQ2: Accuracy on comment generation How does the comment generation model, guided by the code refinement model (and the embedding alignment), perform compared to baseline models? 
+• RQ3: Effect of the embedding alignment objective Considering that the inclusion of the embedding has an effect on the training cost, do we have similar results without considering the embedding? 
+• RQ4: Training time of DISCOREV What is the additional time of the joint training compared to baseline models?",Tool/Approach Evaluation,-1,"Oussama Ben Sghaier, Houari Sahraoui",No URL available
+"AI and software engineering, Auto-coding",Evaluation,"-1
+(vielleicht etwas zu detailliert in Bezug auf Metamorphic Testing)",1,,TRUE,-,Boosting the Revealing of Detected Violations in Deep Learning Testing: A Diversity-Guided Method,"RQ1:Canourmethodeffectivelyboosttherevealingof detectedviolations?
+RQ2: Howdoes the method configuration affect the boosting effectiveness?
+RQ3: Under different MRs, how effective is our proposal and what is the distribution of diversity among MPs?",Tool/Approach Evaluation,0,"Xiaoyuan Xie, Pengbo Yin, Songqiang Chen",No URL available
+"AI and software engineering, Auto-coding",Evaluation,"-1
+(ich hab das Gefühl man braucht etwas tieferes Wissen zu Micro Services)",-1,,TRUE,-,CARGO: AI-Guided Dependency Analysis for Migrating Monolithic Applications to Microservices Architecture,"RQ1:MitigatingdistributedTransactions.Howeffectiveis ourapproachinminimizingdistributedtransactions?
+RQ2:Run-timeperformance.Howdothelatencyandthroughputofarefinedmicroserviceapplicationcomparetothoseofthe originalapplication?
+RQ3:Performanceonarchitecturalmetrics.Howdoesour approachperformonarchitecturalmetrics?",Tool/Approach Evaluation,-1,"Vikram Nitin, Shubhi Asthana, Baishakhi Ray, Rahul Krishna",No URL available
+"AI and software engineering, Auto-coding",Evaluation,0,0,,FALSE,B2,Reusing Deep Neural Network Models through Model Re-engineering,"RQ1: How effective is our model re-engineering approach
+in reusing trained models?
+• RQ2: Does reusing a re-engineered model incur less overhead than reusing the original model?
+• RQ3: Does reusing the re-engineered model mitigate the
+defect inheritance?",Tool/Approach Evaluation,-1,"Binhang Qi, Hailong Sun, Xiang Gao, Hongyu Zhang, Zhaotian Li, Xudong Liu",No URL available
+"AI and software engineering, Auto-coding",Knowledge-seeking,0,0,,FALSE,B1,Using an LLM to Help With Code Understanding,"RQ1: To what extent does GILT affect developers’ understanding, task completion time, and task completion rates when faced with unfamiliar code? 
+• RQ2: How do developers interact with GILT, and to what extent does that differ between the participants? 
+• RQ3: Howdodevelopers perceive the usefulness of GILT?",,0,"Daye Nam, Andrew Macvean, Vincent J. Hellendoorn, Bogdan Vasilescu, Brad A. Myers",No URL available
+"AI and software engineering, Auto-coding",Evaluation,0,0,,FALSE,B2,Flexible and Optimal Dependency Management via Max-SMT,"RQ1: Can MAXNPM find better solutions than NPM when
+given different optimization objectives?
+RQ2: Do MAXNPM’s solutions pass existing test suites?
+RQ3: Does MAXNPM successfully solve packages that NPM
+solves?
+RQ4: Does using MAXNPM substantially increase solving
+time?",Tool/Approach Evaluation,-1,"Donald Pinckney, Federico Cassano, Arjun Guha, Jonathan Bell, Massimiliano Culpo, Todd Gamblin",No URL available
+Testing and analysis,Evaluation,"-1 
+(SMT Solving Wissen benötigt?)",0,,TRUE,B4,Speeding up SMT Solving via Compiler Optimization,"RQ1:Howmanymoreformulascanbesolved? Given a time limit, how many formulas from benchmark sets can SLOT convert from unknown to either sat or unsat? 
+• RQ2:Howmuchfastercanformulasbesolved?Whatis the proportional speedup produced by SLOT for constraints with low and high original solving times? 
+• RQ3: Which LLVM optimization passes contribute? Which optimization strategies in LLVM are most effective at simplifying SMT formulas beyond the capabilities of existing solvers?",Tool/Approach Evaluation,-1,"Benjamin Mikek, Qirun Zhang",No URL available
+Testing and analysis,Evaluation,"-1
+(end-to end fault loc.?, mutation selection konnte ich mir einigermaßen herleiten --> hab aber lein tieferes Verständnis, was man aber auch nicht braucht zum Beantworten der RQ fidne ich)",1,,TRUE,-,Mutation-based Fault Localization of Deep Neural Networks,"• RQ1 (Effectiveness):
+1) How does deepmufl compare to state-of-the-art tools
+in terms of the number of bugs detected?
+2) How many bugs does deepmufl detect from each subcategory of model bugs in our dataset and how does
+that compare to state-of-the-art tools?
+3) What are the overlap of detected bugs among deepmufl and other fault localization techniques?
+• RQ2 (Efficiency):
+1) What is the impact of mutation selection on the
+effectiveness and efficiency of deepmufl?
+2) How does deepmufl compare to state-of-the-art tools
+in terms of end-to-end fault localization time?",Tool/Approach Evaluation,-1,"Ali Ghanbari, Deepak-George Thomas, Muhammad Arbab Arshad, Hridesh Rajan",No URL available
+Testing and analysis,Evaluation,0,0,,TRUE,B4,EndWatch: A Practical Method for Detecting Non-Termination in Real-World Software,"• RQ1: How effective is EndWatch on existing benchmark
+programs compared with the state-of-the-art tools?
+• RQ2: How effective is EndWatch on detecting CVEs in
+real world programs?
+• RQ3: How useful is EndWatch in finding zero-day nontermination bugs?",Tool/Approach Evaluation,-1,"Yao Zhang, Xiaofei Xie, Yi Li, Sen Chen, Cen Zhang, Xiaohong Li",No URL available
+Testing and analysis,Evaluation,0,-1,,FALSE,-,The Plastic Surgery Hypothesis in the Era of Large Language Models,"RQ1: How does FitRepair compare against the state-of-theart APR tools?
+• RQ2: What is the impact of different configurations of
+FitRepair?
+• RQ3: How does FitRepair generalize in fixing additional
+bugs from different projects?",Tool/Approach Evaluation,-1,"Chunqiu Steven Xia, Yifeng Ding, Lingming Zhang",No URL available
+Testing and analysis,Evaluation,0,0,,FALSE,B4,Accelerating Continuous Integration with Parallel Batch Testing,"RQ1:Howdoesparallelization affect the feedback time performance of TestAll with varying numbers of machines? 
+RQ2: How effective is ConstantBatching in terms of feedback time and execution reduction when executed in parallel with varying numbers of machines? 
+RQ3: How effective is BatchAll in terms of feedback time and execution reduction when executed in parallel with varying numbers of machines? 
+RQ4: How effective is TestCaseBatching in terms of feedback time and execution reduction when executed in parallel with varying numbers of machines? Our major contributions to this study are as follows.",Tool/Approach Evaluation,-1,"Emad Fallahzadeh, Amir Hossein Bavand, Peter Rigby",No URL available
+Testing and analysis,Evaluation,0,,,FALSE,B4,Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model,"• RQ1:(Bugs Detection Performance) How effective of InputBlaster in detecting bugs related to text input widgets? 
+• RQ2: (Ablation Study) What is the contribution of the (sub-) modules of InputBlaster for bug detection performance? 
+• RQ3:(Usefulness Evaluation) How does our proposed InputBlaster work in real-world situations?",Tool/Approach Evaluation,-1,"Zhe Liu, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Zhilin Tian, Yuekai Huang, Jun Hu, Qing Wang",No URL available
+Analytics,Evaluation,0,0,,TRUE,B6,Generative Type Inference for Python,"RQ1: How effective is TYPEGEN in type inference
+compared with existing approaches?
+• RQ2: How capable is TYPEGEN in language models with
+different parameter sizes?
+• RQ3: What are the impacts of different parts in the
+prompt design of TYPEGEN?
+• RQ4: What are the impacts of different examples in
+TYPEGEN?",Tool/Approach Evaluation,-1,"Yun Peng, Chaozheng Wang, Wenxuan Wang, Cuiyun Gao, Michael Lyu",No URL available
+Analytics,Evaluation,"-1
+(downstream trace-based root cause analysis Wissen benötigt?)",1,,TRUE,-,TraStrainer: Adaptive Sampling for Distributed Traces with System Runtime State,"RQ1: How does the quality of the traces sampled by TraStrainer compare to the baseline approaches? 
+• RQ2:Howeffective is TraStrainer in downstream trace-based root cause analysis compared with baseline approaches? 
+• RQ3:Howmuchdoesconsidering both system runtime state and trace diversity contribute to the effectiveness of TraStrainer? 
+• RQ4: Howefficient is the sampling of TraStrainer?",Tool/Approach Evaluation,-1,"Haiyu Huang, Xiaoyu Zhang, Pengfei Chen, Zilong He, Zhiming Chen, Guangba  Yu, Hongyang Chen, Chen Sun",No URL available
+Analytics,Evaluation,-1,1,,TRUE,-,FAIR: Flow Type-Aware Pre-Training of Compiler Intermediate Representations,"RQ1: Howeffective is FAIR compared with the state-of-theart baselines on four downstream tasks?
+RQ2:Howdoour input representation aswell as pre-training tasks contributetoFAIR’sperformance?
+RQ3:HowwellcanFAIRtransfertoIRcompiledfromunseen programminglanguagesinthezero-shotsetting?",Tool/Approach Evaluation,-1,"Changan Niu, Chuanyi Li, Vincent Ng, David Lo, Bin Luo",No URL available
+Analytics,Knowledge-Seeking,0,0,,FALSE,B5,The Smelly Eight: An Empirical Study on the Prevalence of Code Smells in Quantum Computing,"RQ1: How do practitioners perceive quantum-specific
+code smells?
+RQ2: What is the prevalence of quantum-specific code
+smells in quantum programs?",,0,"Qihong Chen, Rúben Câmara, José Campos, André Souto, Iftekhar Ahmed",No URL available
+Analytics,Evaluation,0,0,,FALSE,B6,SkCoder: A Sketch-based Approach for Automatic Code Generation,"RQ1: How does SKCODER perform compared to SOTA
+baselines? 
+RQ2: What are the contributions of different modules in
+our approach? 
+RQ3: What is the better design choice of the sketcher?",Tool/Approach Evaluation,-1,"Jia Li, Yongmin Li, Ge Li, Zhi Jin, Xing Hu",No URL available
+Analytics,Knowledge-seeking,0,0,,FALSE,B5,CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation,"RQ1: How much do developers prefer specific third-party
+libraries when coding?
+RQ2: To what extent are developers familiar with the
+contextual intricacies of third-party libraries when coding?
+RQ3: How effective are current code generation models
+at generating code for specific third-party libraries without
+specific fine-tuning on library-related data?",,0,"Mingwei Liu, Tianyong Yang, Yiling Lou, Xueying Du, Ying Wang, Xin Peng",No URL available
+Evolution,,,,,TRUE,,DeepScaler: Holistic Autoscaling for Microservices Based on Spatiotemporal GNN with Adaptive Graph Learning,"Keine richtigen RQs: 
+Overall Evaluation Of the DeepScaler (RQ1)
+Adaptability Evaluation (RQ2)",,,"Chunyang Meng, Shijie Song, Haogang Tong, Maolin Pan, Yang Yu",No URL available
+Evolution,"Knowledge-seeking 
+Evaluation","-1 
+(detaillierteres Wissen zu Python notwendig?)",0,,TRUE,B7,Hard to Read and Understand Pythonic Idioms? DeIdiom and Explain Them in Non-Idiomatic Equivalent Code,"RQ1: Whatchallenges do pythonic idioms present to Python users in terms of understanding? 
+RQ2: Howare pythonic idioms used in real projects? 
+RQ3: Howare conciseness of pythonic idioms manifested? 
+RQ4: What are the potential negative effects of using pythonic idioms?
+
+RQ1(Accuracy): How accurate is our approach when transforming idiomatic code of nine pythonic idioms into non-idiomatic code? 
+RQ2(Usefulness): Is the generated non-idiomatic code useful for understanding pythonic idiom usage?",Pythonic specifi; Tool/Approach Evaluation,-1,"zejun zhang, Zhenchang Xing, Dehai Zhao, Qinghua Lu, Xiwei (Sherry) Xu, Liming Zhu",No URL available
+Evolution,Evaluation,0,0,,TRUE,B8,Has My Release Disobeyed Semantic Versioning? Static Detection Based On Semantic Differencing,"RQ1:WhatistheaccuracyofSembidintermsofSemBdetection? 
+RQ2:HowistheeffectivenessofSembidagainstunittests? 
+RQ3:HowdotopJavalibrariescomplywithSemVerrules?",Tool/Approach Evaluation,-1,"Lyuye Zhang, Chengwei Liu, Zhengzi Xu, Sen Chen, Lingling Fan, Bihuan Chen, Yang Liu",No URL available
+Evolution,Evaluation,0,0,,FALSE,B8,Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports,"RQ1: What is Janus𝑣𝑖𝑠’s duplicate detection performance? 
+RQ2: What is Janus𝑡𝑥𝑡’s duplicate detection performance? 
+RQ3: What is Janus𝑠𝑒𝑞’s duplicate detection performance? 
+RQ4: What is the performance of Janus’s component combinations?",Tool/Approach Evaluation,-1,"Yanfu Yan, Nathan Cooper, Oscar Chaparro, Kevin Moran, Denys Poshyvanyk",No URL available
+Evolution,Evaluation,0,0,,FALSE,B8,Developer-Intent Driven Code Comment Generation,"RQ1 : How does the DOME perform compared to the stateof-the-art comment generation baselines?
+RQ2: How does each individual component in DOME
+contribute to the overall performance?
+RQ3: What is the perceived quality of intent-aware comments generated by DOME?",Tool/Approach Evaluation,-1,"Fangwen Mu, Xiao Chen, Lin Shi, Song Wang, Qing Wang",No URL available
+Evolution,,,0,,FALSE,,Dependency-Induced Waste in Continuous Integration: An Empirical Study of Unused Dependencies in the NPM Ecosystem,keine RQs,,,"Nimmi Weeraddana, Mahmoud Alfadel, Shane McIntosh",No URL available
+Requirements and modeling,Evaluation,0,0,,TRUE,B10,Analyzing and Debugging Normative Requirements via Satisfiability Checking,Howeffective is LEGOS-SLEEC in detecting WFIs?,Tool/Approach Evaluation,-1,"Nick Feng, Lina Marsso, Sinem Getir Yaman, Yesugen Baatartogtokh, Reem Ayad, Victória Oldemburgo de Mello, Beverley Townsend, Isobel Standen, Ioannis Stefanakos, Calum Imrie, Genaína Nunes Rodrigues, Ana Cavalcanti, Radu Calinescu, Marsha Chechik",No URL available
+Requirements and modeling,,,,,TRUE,,Compiler Testing using Template Java Programs,,,,"Zhiqiang Zang, Nathan Wiatrek, Milos Gligoric, August Shi",No URL available
+Requirements and modeling,Evaluation,0,0,,TRUE,B10,Detecting Smart Home Automation Application Interferences with Domain Knowledge,"• RQ1: How well does KnowDetector perform in practice?
+Can it find common interaction interferences in realworld applications?
+• RQ2: Can KnowDetector be extended to detect specific interference compared to other state-of-the-art techniques? What is the overall accuracy of KnowDetector?
+• RQ3: What is the performance of KnowDetector?",Tool/Approach Evaluation,-1,"Tao Wang, Wei Chen, Liwei Liu, Guoquan Wu, Jun Wei, Tao Huang",No URL available
+Requirements and modeling,Evaluation,0,0,,FALSE,B10,Groundhog: An Automated Accessibility Crawler for Mobile Apps,"RQ1.HoweffectiveisGroundhogindetectingaccessibilityissues? 
+RQ2.HowdoesGroundhogcomparetoGoogleAccessibility Scanner(theofficialaccessibilitytestingtoolinAndroid)? 
+RQ3.Whatarethecharacteristicsof thedetectedaccessibility issues?Howdotheyimpactappusageforuserswithdisabilities? 
+RQ4.WhatistheperformanceofGroundhog?Towhatextent optimizationimprovesitsperformance?",Tool/Approach Evaluation,-1,"Navid Salehnamadi, Forough Mehralian, Sam Malek",No URL available
+Requirements and modeling,,,,,FALSE,,Automatically Detecting Visual Bugs in HTML5 <canvas> Games,keine RQs,,,"Finlay Macklon, Mohammad Reza Taesiri, Markos Viggiato, Stefan Antoszko, Natalia Romanova, Dale Paas, Cor-Paul Bezemer",No URL available
+Requirements and modeling,Evaluation,0,0,,FALSE,B10,Generating Critical Test Scenarios for Autonomous Driving Systems via Influential Behavior Patterns,"RQ1:Howeffective is CRISCO in finding safety violations of ADS? 
+RQ2: How effective and efficient is CRISCO to expose safety violations compared to existing state-of-the-art technique? 
+RQ3: Is CRISCO able to generate more types of safety-violation scenarios which are different from the traffic collisions occurred in the selected datasets inD and Stanford Drone?",Tool/Approach Evaluation,-1,"Haoxiang Tian, Guoquan Wu, Jiren Yan, Yan Jiang, Jun Wei, Wei Chen, Shuo Li, Dan Ye",No URL available
+Human and social aspects,Evaluation,"-1
+(bin mir unsicher, ob da nicht Wissen zum Gehirn usw. benötigt sind)",-1,,TRUE,-,Causal Relationships and Programming Outcomes: A Transcranial Magnetic Stimulation Experiment,"RQ1: Can wereplicate prior findings that neurostimulation of the SMA reduces mental rotation completion times? 
+RQ2: Is there a direct causal relationship between activity in the SMA(or M1) brain region alone and performance? 
+RQ3: Does neurostimulation of the SMA or M1 brain regions affect objective computing performance outcomes? 
+RQ4: Does neurostimulation in the SMA or M1 brain region affect self-perceived problem difficulty?",Neuro-related topic,0,"Hammad Ahmad, Madeline Endres, Kaia Newman, Priscila Santiesteban, Emma Shedden, Westley Weimer",No URL available
+Human and social aspects,,,,,TRUE,,"GenderMag Improves Discoverability in the Field, Especially for Women",,,,"Emerson Murphy-Hill, Alberto Elizondo, Ambar Murillo, Marian Harbach, Bogdan Vasilescu, Delphine Carlson, Florian Dessloch",No URL available
+Human and social aspects,Knowledge-seeking,"-1
+(Wissen zu Property based testing notwendig?)",0,,TRUE,B11,Property-Based Testing in Practice,"RQ1: What are the characteristics of a successful and mature PBT culture at a software company? 
+RQ2: Are there opportunities for future work in the PBT space that are motivated by the needs of real developers?",Property based testing specific,0,"Harrison Goldstein, Joseph W. Cutler, Daniel Dickstein, Benjamin C. Pierce, Andrew Head",No URL available
+Human and social aspects,Knowledge-seeking,"-1
+(Wissen zu Web Development notwendig?)",0,,FALSE,B11,Understanding the Impact of APIs Behavioral Breaking Changes on Client Applications,"RQ1: Howoften are client-impacting BBCs captured through client tests?
+RQ2: Whattypesofeffects do BBCshaveonclient tests?
+RQ3: Where does the BBC-related impact originate?
+RQ4: Doruntime exception messages effectively guide developers in handling BBCs?",API and clients,-1,"Dhanushka Jayasuriya, Valerio Terragni, Jens Dietrich, Kelly Blincoe",No URL available
+Human and social aspects,Knowledge-seeking,0,0,,FALSE,B11,How does Simulation-based Testing for Self-driving Cars match Human Perception?,"RQ1: To what extent does the OOB safety metric for simulation-based test cases of SDCs align with human safety assessment?
+RQ2: To what extent does the safety assessment of simulation-based SDC test cases vary when humans can interact with the SDC?
+RQ3: What are the main reality-gap characteristics perceived by humans in SDC test cases?",,-1,"Christian Birchler, Tanzil Kombarabettu Mohammed, Pooja Rani, Teodora Nechita, Timo Kehrer, Sebastiano Panichella",No URL available
+Human and social aspects,Knowledge-seeking,0,0,,FALSE,B11,"A Case Study of Developer Bots: Motivations, Perceptions, and Challenges","RQ1: What processes and needs motivate developers to instrument bots in a large software engineering organization? What challenges do they face in developing the bots? 
+RQ2: What is the experience of developers when using various developer bots (bene ts and challenges)? 
+RQ3: Howdodevelopersengagewithdi erenttypesofdeveloper bots?",,1,"Sumit Asthana, Hitesh Sajnani, Elena Voyloshnikova, Birendra Acharya, Kim Herzig",No URL available
+Dependability and Security,Evaluation,-1,0,,TRUE,B14,Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects,"RQ1: How is CORAL compared with other cutting-edge
+remediation tools regarding security and compatibility?
+RQ2: How effectively does CORAL resolve the challenge of
+global optimization by subgraph partitioning?
+RQ3: How many vulnerabilities CAN/CANNOT be fixed
+without breaking the projects in the Maven ecosystem?",Tool/Approach Evaluation,-1,"Lyuye Zhang, Chengwei Liu, Zhengzi Xu, Sen Chen, Lingling Fan, Lida Zhao, Wu Jiahui, Yang Liu",No URL available
+Dependability and Security,Evaluation/Knowledge-seeking,-1,1,,TRUE,-,[Remote] TransRacer: Function Dependence-Guided Transaction Race Detection for Smart Contracts,"• RQ1: Howe ective is TransRacer? Is the dependence analyzer helpful in nding races? 
+• RQ2:Howe cient is TransRacer? Compared with singlestate detection, how much additional time does race detection consume duetothemultiple states reached by executing interdependent functions? 
+• RQ3:Are races and race bugs prevalent in practice? 
+• RQ4:Whatare the numbers and percentages of races hidden at speci c contract states (that is, those that cannot be detected at the initial contract states)?",Tool/Approach Evaluation,-1,"Chenyang Ma, Wei Song, Jeff Huang",No URL available
+Dependability and Security,,,,,TRUE,,Lejacon: A Lightweight and Efficient Approach to Java Confidential Computing on SGX,,,,"Xinyuan Miao, Ziyi Lin, Shaojun Wang, Lei Yu, Sanhong Li, Zihan Wang, Pengbo Nie, Yuting Chen, Beijun Shen, He Jiang",No URL available
+Dependability and Security,Evaluation,0,1,,FALSE,-,FuzzSlice: Pruning False Positives in Static Analysis Warnings through Function-Level Fuzzing,"RQ1.HowmanyPFPscanFuzzSliceconfirmonasynthetic dataset? 
+• RQ2.HowmanyPFPscanFuzzSliceconfirmonareal-world project dataset? 
+• RQ3. How does FuzzSlice perform in terms of coverage, warning executions and compilation for PFP warnings?",Tool/Approach Evaluation,-1,"Aniruddhan Murali, Noble Saji Mathews, Mahmoud Alfadel, Mei Nagappan, Meng Xu",No URL available
+Dependability and Security,Evaluation,"-1 
+(Wissen zu DL notwendig?)",1,,FALSE,-,Does data sampling improve deep learning-based vulnerability detection? Yeas! and Nays!,"RQ1: Does data sampling improve the effectiveness of
+existing DLVD approaches?
+RQ2: Does data sampling improve the ability of DLVD
+for learning the vulnerable patterns?
+","Tool/Approach Evaluation;
+DL specific",-1,"Xu Yang, Shaowei Wang, Yi Li, Shaohua Wang",No URL available
+Dependability and Security,Evaluation,"-1
+(Wissen zu CWE notwendig?)",1,,FALSE,-,Fine-grained Commit-level Vulnerability Type Prediction By CWE Tree Structure,"RQ1: How effective is TREEVUL compared to baselines
+for fine-grained SV type (i.e., depth-3 CWE) prediction?
+• RQ2: How effective are the key designs of TREEVUL?",Tool/Approach Evaluation,-1,"Shengyi Pan, Lingfeng Bao, Xin Xia, David Lo, Shanping Li",No URL available

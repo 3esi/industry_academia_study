@@ -1,0 +1,98 @@
+Domain,Knowledge-seeking vs. Eval,Nerd factor/zu spezifisch,Validation Nerd Factor,Higher-level RQ,Distinguished,Bucket ID,Paper Name,Research Questions (max. 4),Notiz,Suitability Tendenz,Authors,URL
+"AI and software engineering, Auto-coding",Evaluation,-,,,FALSE,-,CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back,"RQ1: How effective is CCRep compared to the state-ofthe-art approaches? We evaluate the three variants of CCRep, which use the token-level, the line-level and the hybrid queryback mechanisms and are referred to as CCReptoken, CCRepline and CCRephybrid, respectively, on the target task, and compare them against the state-of-the-art approaches. 
+RQ2: How effective is each component in CCRep? There are two main components in CCRep, i.e., the pre-trained code model and the query-back mechanism. We conduct ablation studies on each task to investigate their contributions to CCRep’s effectiveness.",,,"Zhongxin Liu, Zhijie Tang, Xin Xia, Xiaohu Yang",No URL available
+"AI and software engineering, Auto-coding",Evaluation,-,,,FALSE,-,MirrorFair: Fixing Fairness Bugs in Machine Learning Software via Counterfactual Predictions,"RQ1: E cacy of MirrorFair: To what extent can MirrorFair achieve mitigating model bias without losing too much performance? We conduct a comprehensive comparison between MirrorFair and existing bias-mitigating methods across di erent decision-making scenarios. 
+• RQ2:Applicability and versatility: To what extent can MirrorFair achieve the consistency in maintaining the e cacy? We design two experimental settings to explore the applicability and versatility of MirrorFair across di erent tasks and algorithms and compare MirrorFair with state-of-the-art methods. 
+• RQ3:E ectiveness in mitigating multiple attributes biases: To what extent can MirrorFair mitigate multiple sensitive attribute biases simultaneously? This research question compares the e ectiveness of MirrorFair with that of existing methods in multiple sensitive attribute scenarios. 
+• RQ4: Impact of mirroring processing and e ectiveness of adaptive strategies: What impact does the mirroring processing have on model predictions, and how e ectively can adaptive ensemble strategies achieve? In this research question, we conduct an empirical investigation across various decision tasks and machine learning algorithms to explore the diverse e ects of mirroring processing on model predictions. Subsequently, we present the results of adaptive ensemble strategies alongside those of xed ensemble strategies to highlight the advantages of adaptive ensemble strategies.",,,"Ying Xiao, Jie M. Zhang, Yepang Liu, Mohammad Reza Mousavi, Sicen Liu, Dingyuan Xue",No URL available
+"AI and software engineering, Auto-coding",Evaluation,-1,1,,FALSE,-,Glitch Tokens in Large Language Models: Categorization Taxonomy and Effective Detection,"RQ1(Symptom): What are the unexpected behaviors caused by glitch tokens in LLMs? Carefully tracking how models respond to glitch tokens can inform techniques to make tokenization and model training more robust. This question explores the model response to glitch tokens. We analyzed the responses from selected seven LLMs to the 7,895 glitch tokens and categorized the models’ behaviors into five types. 
+• RQ2 (Glitch Token Type): What are the common types of glitch tokens in LLMs? To thoroughly characterize glitch tokens and facilitate their effective detection, this question investigates their prevalence, emergence patterns, and distinguishing attributes across diverse models. We manually label emerging glitch tokens to identify distinctive features and provide key insights to facilitate automated detection. 
+• RQ3(Real-worldAnalysis):Whatisthefrequencyofglitchtokensinreal-worlddatasets? This RQ aims to investigate the prevalence of glitch tokens within widely-used datasets such as Alpaca-52k [36] employed for LLM training. 
+• RQ4(Efficient Detection): How to detect glitch tokens in LLMs more efficiently? Guided by insights found in previous RQs, we introduce a specialized oracle to facilitate glitch token detection and develop an efficient iterative clustering technique tailored for rapidly identifying these tokens.",,,"Yuxi Li, Yi Liu, Gelei Deng, Ying Zhang, Wenjia Song, Ling Shi, Kailong Wang, Yuekang Li, Yang Liu, Haoyu Wang",No URL available
+Testing and analysis,Evaluation,-,,,TRUE,-,Fuzzle: Making a Puzzle for Fuzzers,"RQ1. Is Fuzzle efficient in terms of synthesizing buggy programs? 
+RQ2. Howdoconfiguration parameters of Fuzzle affect the quality of synthesized bugs and the performance of fuzzers? 
+RQ3. Howdorenderingstrategies affect the quality of synthesized bugs and the performance of fuzzers? 
+RQ4. DoesFuzzle generate benchmarks of customizable difficulty?",,,"Haeun Lee, Soomin Kim, Sang Kil Cha",No URL available
+Testing and analysis,Evaluation,-,,,TRUE,-,Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware,"RQ1(State-of-the-ArtComparison)-HowdoesBVFinder perform compared with the state-of-the-art tools? 
+• RQ2(AblationStudies)-Howeachcomponentof BVFinder contributes to its vulnerability detection? 
+• RQ3(Real-world Evaluation)- Can BVFinder find zeroday vulnerabilities?",,,"Yiming Liu, Cen Zhang, Feng Li, Yeting Li, Jianhua Zhou, Jian Wang, Lanlan Zhan, Yang Liu, Wei Huo",No URL available
+Testing and analysis,Evaluation,-,,,TRUE,-,EDEFuzz: A Web API Fuzzer for Excessive Data Exposures,"(RQ1) Accuracy. Of the data fields flagged by EDEFuzz, what proportion are true excessive data exposures (i.e. unused by the web page). This evaluates the usefulness of our metamorphic relation. 
+(RQ2) Applicability. To what proportion of widely used web sites can EDEFuzz be applied successfully? This helps to understand limitations of our approach, both inherent and those that arise from EDEFuzz’s current implementation. 
+(RQ3) Efficiency. How much human effort and computational time is required to apply EDEFuzz? This sheds light on the scalability of our approach.
+(RQ4)PrevalenceofSensitiveDataLeakage.Ofthosefieldsflagged by EDEFuzz as excessive, what proportion contain sensitive data? This helps us understand how prevalent sensitive data leakage is amongst excessive data exposure issues.",,,"Lianglu Pan, Shaanan Cohney, Toby Murray, Thuan Pham",No URL available
+Testing and analysis,Evaluation,-1,1,,FALSE,-,StandUp4NPR: Standardizing Setup for Empirically Comparing Neural Program Repair Systems,"[RQ1]Repairability (1)HowmanybugsinNPR4J-Benchmarkcanbefixedbythe sixNPRsystems? (2)Howdoesthecandidatenumberinfluencetherepairability oftheNPRsystems? 
+•[RQ2]Inclination (1)Whenfeedingthesametrainingdata,willNPRsystems tendtofixthesamebugs? (2)DoNPRsystemshavearepairpreferenceforbugtypes? 
+•[RQ3]Generalizability RQ3CantheNPRsystemsfixthebugswhichhaveneverbeen seenduringtraining?",,,"Wenkang Zhong, Hongliang Ge, Hongfei Ai, Chuanyi Li, Kui Liu, Jidong Ge, Bin Luo",No URL available
+Testing and analysis,Evaluation,-,,,FALSE,-,EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes,"RQ1(E ectivenessofTestCaseGeneration):Howmuch dothesemantically-validtestcasescompletetheirexecutionswithouterrors?Also,howmuchdosemantically-invalid testcasespreservetheirexecutabilitywithoutlibraryerrors? 
+•RQ2(DeviationandBugDetectionCapability):How manydeviationsandbugshasEtherDifferdetected? 
+•RQ3(ComparisonwiththeO cialTool):Howe ective isEtherDiffercomparedtotheo cialtestingtoolfornode implementations?",,,"Shinhae Kim, Sungjae Hwang",No URL available
+Testing and analysis,Knowledge-seeking,-1,1,,FALSE,-,AST-Probe: Recovering abstract syntax trees from hidden representations of pre-trained language models,"–RQ1:CantheAST-Probelearn to parse on top of any informative code representation 4?
+– RQ2: Which pre-trained language model best encodes the AST in its hidden representations? Wecompare a total of six pre-trained language models for three programming languages and assess which one best encodes the AST of input codes.
+– RQ3: What layers of the pre-trained language models encode the AST better? Weapply our probe to specific hidden representation spaces of intermediate layers of the models and compare the probe effectiveness over the layers.
+– RQ4: What is the dimension of the syntactic subspace S? To end our experiments, we are interested in how compact is the syntactic subspace in the hidden representation spaces of the pre-trained language models.",,,"José Antonio Hernández López, Martin Weyssow, Jesús Sánchez Cuadrado, Houari Sahraoui",No URL available
+Analytics,Knowledge-seeking,0,,,FALSE,,Traces of Memorisation in Large Language Models for Code,"RQ1: How does the rate of memorisation compare between Natural Language and Code trained LLMs? To compare the rate of memorisation, we run both the attack on natural language as well as code models and compare the results. Intuitively we expect code models to be able to memorise more since code is more structured and there is much more natural language data available. 
+RQ2: What type of data are memorised by code-trained LLMs? We want to knowif there is a code pattern that is memorised. To do this we take the set of samples vulnerable to attack and we manually analyse them by constructing a classification of the samples. 
+RQ3: How much overlap is there between the memorised samples in different code-trained LLMs? Do some models memorise different samples than others? Could we perhaps leverage a selection of different models to extract more data and do some models memorise more of a certain type of sample than others? 
+RQ4: To what extent do LLMs trained in code leak their pre-training data?",,,"Ali Al-Kaswan, Maliheh Izadi, Arie van Deursen",No URL available
+Analytics,Evaluation,-,,,FALSE,-,iASTMapper: An Iterative Similarity-Based Abstract Syntax Tree Mapping Algorithm,,,,"Neng Zhang, ChenQinde, Zibin Zheng, Ying Zou",No URL available
+Analytics,,,,,FALSE,-,Demystifying and Detecting Misuses of Deep Learning APIs,keine RQs,,,"Moshi Wei, Nima Shiri Harzevili, Yuekai Huang, Jinqiu Yang, Junjie Wang, Song Wang",No URL available
+Evolution,Evaluation,-,,,FALSE,-,Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration,,,,"Yuqiang Sun, Zhengzi Xu, Chengwei Liu, Yiran Zhang, Yang Liu",No URL available
+Evolution,Knowledge-seeking,0,,,FALSE,,How Do Developers' Profiles and Experiences Influence their Logging Practices? An Empirical Study of Industrial Practitioners,,,,"Guoping Rong, shenghui gu, Haifeng Shen, He Zhang, Hongyu Kuang",No URL available
+Evolution,Evaluation,-,,,FALSE,-,Evaluating Code Summarization Techniques: A New Metric and an Empirical Characterization,,,,"Antonio Mastropaolo, Matteo Ciniselli, Massimiliano Di Penta, Gabriele Bavota",No URL available
+Requirements and modeling,Knowledge-seeking,0,0,,FALSE,B9,Too Much Accessibility is Harmful! Automated Detection and Analysis of Overly Accessible Elements in Mobile Apps,"RQ1. Howaccurate is OverSight in detecting OA elements? 
+RQ2. How prevalent are over-access problems in securityconcerned apps? 
+RQ3. What are the potential impacts of OA elements on different apps and communities? 
+RQ4. What is the performance of OverSight?",,,"Forough Mehralian, Navid Salehnamadi, Syed Fatiul Huq, Sam Malek",No URL available
+Requirements and modeling,,,,,FALSE,-,Enriching Compiler Testing with Real Program from Bug Report,"""Our research methodology is customized for experience papers, and we do not list explicit research questions like empirical studies.""",,,Hao Zhong,No URL available
+Requirements and modeling,Evaluation,-,,,FALSE,-,Mining Android API Usage to Generate Unit Test Cases for Pinpointing Compatibility Issues,"RQ1 To what extent can JUnitTestGen generate executable unit test cases for Android APIs? 
+RQ2 HoweffectiveisJUnitTestGenindiscoveringAPI-induced Compatibility Issues? 
+RQ3 HowdoesJUnitTestGen compare with existing tools in detecting compatibility issues?",,,"Xiaoyu Sun, Xiao Chen, Yanjie Zhao, Pei Liu, John Grundy, Li Li",No URL available
+domain_human_social,,,,,FALSE,-,High Expectations: An Observational Study of Programming and Cannabis Intoxication,,,,"Wenxin He, Manasvi Parikh, Westley Weimer, Madeline Endres",No URL available
+domain_human_social,,,,,FALSE,-,On the Reproducibility of Software Defect Datasets,,,,"Hao-Nan Zhu, Cindy Rubio-González",No URL available
+domain_human_social,,,,,FALSE,-,Unraveling the Drivers of Sense of Belonging in Software Delivery Teams: Insights from a Large-Scale Survey,,,,"Bianca Trinkenreich, Marco Gerosa, Igor Steinmacher",No URL available
+Dependability and Security,Knowledge-seeking,0,0,,FALSE,B13,An Empirical Study of Deep Learning Models for Vulnerability Detection,"RQ1 Do models agree on the vulnerability detection results? What are the variabilities across different runs of a model and across different models? 
+• RQ2 Are certain types of vulnerabilities easier to detect? Should we build models for each type of vulnerabilities or should we build one model that can detect all the vulnerabilities? 
+• RQ3 Are programs with certain code features harder to be predicted correctly by current models, and if so, what are those code features?
+• RQ4 Can increasing the dataset size help improve the
+model performance for vulnerability detection?",,,"Benjamin Steenhoek, Md Mahbubur Rahman, Richard Jiles, Wei Le",No URL available
+Dependability and Security,Evaluation,-,,,FALSE,-,On-Demand Security Requirements Synthesis with Relational Generative Adversarial Networks (RelGAN),"RQ1: Can RelGAN be promising for generating security
+requirements? We found that RelGAN generates synthetic
+security requirements similar to the original requirements
+of the CCMS. RelGAN’s performance metrics in terms
+of diversity of generated samples and matching between
+the generated samples and original data are comparable to
+RelGAN’s application in other domains. This result highlights that the use of GANs can be a promising approach
+for synthesizing and recommending requirements.
+• RQ2: Does the proposed method result in high quality
+security requirements specifications? We found that when
+the synthesized requirements are grammatically correct,
+the generated specifications follow the best practices of
+writing security requirements. Overall, 68% of all synthesized security requirements had no specification defects
+and out of those which were grammatically correct, 87%
+had no specification defects.
+• RQ3: Are the synthesized security requirements useful
+in practice? 9 subject matter requirements engineering
+experts with prior requirements specification experience
+evaluated the synthesized security requirements. They
+indicated that the majority (80%) of syntactically correct
+requirements were useful (22%) or very useful (58%).
+However, 42% of the syntactically incorrect requirements
+were perceived useful despite grammatical errors in the
+specifications.
+• RQ4: Would the adjustment of input requirements based
+on rules of writing requirements impact the quality of
+synthesized requirements? Our experimentation results
+did not show improvement over the quality of synthesized
+requirements after such treatment. In fact, the study
+that preprocessed the requirements to simplify them and
+improve the writing quality resulted in more ambiguous
+specifications.",,,"Viktoria Koscinski, Sara Hashemi, Mehdi Mirakhorli",No URL available
+Dependability and Security,Knowledge-seeking,0,0,,FALSE,B13,What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?,"• RQ1: What are the technical challenges faced by developers related to checked-in secrets?
+RQ1.1 What are the questions developers ask about
+checked-in secrets?
+RQ1.2 Which questions related to checked-in secrets
+exhibit more unsatisfactory answers?
+• RQ1.3 Which questions are the most
+• RQ2: What solutions do developers get for mitigating
+checked-in secrets?
+",,,"Setu Kumar Basak, Lorenzo Neil, Bradley Reaves, Laurie Williams",No URL available
